@@ -1,14 +1,12 @@
 # Abraham “Abe” Tabak — family-informed annotations
 
-## About this consolidated edition
+## About this transcript
 
-This edition keeps the conversation in video order and uses Nancy’s close-listening notes to repair obvious recognition errors and identify speakers. It is an edited, machine-assisted transcript, not a certified verbatim record. Brief fillers may be consolidated; the original recording remains the source for exact wording, tone, and gestures. Timestamps refer to the supplied 1:18:15.934 video, not the camcorder clock. Timing within longer passages is approximate.
+This transcript keeps the conversation in video order and uses Nancy’s close-listening notes to repair obvious recognition errors and identify speakers. It is an edited, machine-assisted transcript, not a certified verbatim record. Brief fillers may be consolidated; the original recording remains the source for exact wording, tone, and gestures. Timestamps refer to the supplied 1:18:15.934 video, not the camcorder clock. Timing within longer passages is approximate.
 
-A dagger (†) marks wording or a speaker identification informed by Nancy’s notes or the user’s subsequent listening review. A speaker label applies only to that passage, not the surrounding conversation. Unlabeled passages retain an unidentified or mixed speaker. “Check audio” flags remaining recognition problems; errors may also remain elsewhere. In particular, the restored Russian-doctor correction is positioned within the previously untranscribed interval around 00:05:48–00:05:59; its exact word timing is approximate.
+A dagger (†) marks wording or a speaker identification informed by Nancy’s notes or the family’s listening review. A speaker label applies only to that passage, not the surrounding conversation. Unlabeled passages retain an unidentified or mixed speaker. “Check audio” flags remaining recognition problems; errors may also remain elsewhere. Abe’s Russian-doctor correction occurs around 00:05:48–00:05:59; its exact word timing is approximate.
 
 Three kinds of evidence are kept distinct: the 1988 conversation; Nancy’s listening, memories, and account of family research; and Harry’s 2020 email reproduced in her notes. Nancy also refers to Rita’s later audio interviews. Those tapes, the underlying family tree, passenger manifest, and civil records have not been supplied or independently inspected here. Details drawn from them are attributed through Nancy or Harry, rather than presented as new words spoken in 1988.
-
-The original draft is retained internally for provenance. The reader, annotated text, plain text, and subtitles distributed here all represent this one consolidated edition.
 
 ## Family identifications
 
@@ -32,7 +30,7 @@ The original draft is retained internally for provenance. The reader, annotated 
 6. **1921:** Moishe’s death, per Nancy’s introduction, at about 80 rather than the interview’s 91–92 or 96. The suggested birth year 1832 in the conversation is not adopted as family history.
 7. **Approximately 1921–1922:** Marriage, repeated passport/visa applications, and arrest during preparations to emigrate. The video places marriage during a delay and mentions a May 1922 consular summons. No exact marriage date is established here.
 8. **December 1922:** Abe’s departure for the United States, according to Harry’s email. Harry says Telca was pregnant when he left. The video says news of Frances’s birth reached Abe in Antwerp. The exact birth date and journey dates should not be derived solely from these recollections.
-9. **September 14, 1928:** Harry identifies a passenger-list entry for the SS Berengaria, with Fajga Rajs Tabak (Frances) and Telca Rajs Tabak. The manifest itself has not been inspected for this edition. Fran remembers arriving at six; that recalled age and the pregnancy/departure sequence should not be forced into a precise birth date without records.
+9. **September 14, 1928:** Harry identifies a passenger-list entry for the SS Berengaria, with Fajga Rajs Tabak (Frances) and Telca Rajs Tabak. The manifest itself has not been inspected for this transcript. Fran remembers arriving at six; that recalled age and the pregnancy/departure sequence should not be forced into a precise birth date without records.
 10. **August 28, 1976; July 1988; February 23, 1997:** Telca’s death, this recorded reunion, and Abe’s death, respectively; death dates are supplied by Nancy’s family-research introduction.
 
 ## Editorial choices and important distinctions
@@ -43,7 +41,7 @@ The transcript preserves spoken ages and jokes. The family profile and timeline 
 
 ### 00:05:44–00:06:55 — The Russian doctor
 
-**Resolved by the user and Nancy’s joint listening review.** Sylvia says “German doctor”; Abe immediately corrects her: **“It was a Russian.”** The earlier machine passes missed the correction and incorrectly made the account appear to identify a German doctor. This edition restores the exchange and identifies the physician as Russian in the notes. The lost prescription, improvement, subsequent illness, and death remain family recollections; the transcript does not infer a modern medical diagnosis.
+Sylvia says “German doctor”; Abe immediately corrects her: **“It was a Russian.”** The physician is therefore identified as Russian, following the family’s joint listening review. The lost prescription, improvement, subsequent illness, and death remain family recollections; the transcript does not infer a modern medical diagnosis.
 
 ### 00:07:10–00:09:49 — Telca’s family and “mitchered”
 
@@ -51,7 +49,7 @@ Nancy identifies this discussion as concerning Grandma/Telca’s parents. Sylvia
 
 ### 00:10:00–00:16:22 — Yisroel, Chaim, and the Holocaust accounts
 
-Nancy’s family identifications resolve the main name confusion: Yisroel married Yitta and is the brother described as killed in World War I; Chaim is the tailor/prisoner-of-war brother. The later account of Chaim’s death shifts to World War II. Abe reports a mine being flooded; Nancy says the family tree instead records Chaim as starving while escaping the Nazis, and Shossy dying during escape. This edition retains the mine account as **what Abe reports**, without presenting it as an established cause of death. Neither an audio transcript nor an unsupported choice between accounts can settle the historical event.
+Nancy’s family identifications resolve the main name confusion: Yisroel married Yitta and is the brother described as killed in World War I; Chaim is the tailor/prisoner-of-war brother. The later account of Chaim’s death shifts to World War II. Abe reports a mine being flooded; Nancy says the family tree instead records Chaim as starving while escaping the Nazis, and Shossy dying during escape. The transcript retains the mine account as **what Abe reports**, without presenting it as an established cause of death. Neither an audio transcript nor an unsupported choice between accounts can settle the historical event.
 
 For the family relationships, Nancy’s researched identification is preferred: **Yitta and Hansha were Yisroel’s wife and daughter; Yitzak was Chaim’s son.** The interview appears to mix some of these relationships. The summary uses the researched relationships while the transcript preserves the spoken account with an explanatory note. Nancy reports a Haifa residence for Yitzak in 1970 in the tree; no death date is established by those materials as described.
 
@@ -59,7 +57,7 @@ For the family relationships, Nancy’s researched identification is preferred: 
 
 The garbled shop item “calcium” is corrected to **kerosene**, supported by Nancy and a fresh recognition check of that audio passage. Other adopted readings include **peasants, Austrian gendarmes, flour, orchard**, and the shopkeeper-relative wording where Nancy supplies a clear reading. Her explanation of **traif** concerns the fear that a borrowed pot would be used for non-kosher food. The extent of the sergeant’s violence toward Abe’s mother remains unclear.
 
-The place spellings are standardized to **Krasnobród, Zamość, and Tomaszów** (Tomaszów Lubelski in the family notes). Nancy’s text and Harry’s email provide stronger identification than phonetic guesses from the first draft. Unnamed smaller towns on the detention route remain unnamed. Krasnobród’s municipal history describes Russian rule before World War I, fighting in 1915, and subsequent Austrian occupation; that provides regional context, not a date for every family episode. [Krasnobród municipality: history](https://krasnobrod.pl/historia/); [POLIN: Tomaszów Lubelski](https://sztetl.org.pl/en/towns/t/51-tomaszow-lubelski/96-local-history/70152-local-history).
+The place spellings are standardized to **Krasnobród, Zamość, and Tomaszów** (Tomaszów Lubelski in the family notes). These identifications follow Nancy’s text and Harry’s email. Unnamed smaller towns on the detention route remain unnamed. Krasnobród’s municipal history describes Russian rule before World War I, fighting in 1915, and subsequent Austrian occupation; that provides regional context, not a date for every family episode. [Krasnobród municipality: history](https://krasnobrod.pl/historia/); [POLIN: Tomaszów Lubelski](https://sztetl.org.pl/en/towns/t/51-tomaszow-lubelski/96-local-history/70152-local-history).
 
 ### 00:30:12–00:44:25 — Arrest and emigration
 
@@ -75,13 +73,13 @@ The U.S. quota system dates to 1921 and was revised in 1924. The inflation conte
 
 Nancy identifies **Harry** in the lost-child story; **Sylvia** in the toddler/swimming-pool memory; **Fran** in the Pennsylvania near-drowning story; **Rita** in the cigarette/hair incident; and **Bobbi** in the “sort of a girl” birth-announcement story. Labels are applied to matched passages rather than every nearby interjection. Her own recollections of stories told on other occasions remain in annotations, not in the transcript.
 
-The record title is restored as **Strauss waltz**. The proposed origin of **Tabak** remains family tradition; neither Nancy’s notes nor the interview proves a connection to the Hungarian rabbi mentioned by Harry. The “cotton cup” expression is retained as Nancy’s phonetic reading, not given a speculative translation.
+Nancy identifies the record as **Strauss waltz**. The proposed origin of **Tabak** remains family tradition; neither Nancy’s notes nor the interview proves a connection to the Hungarian rabbi mentioned by Harry. The “cotton cup” expression is retained as Nancy’s phonetic reading, not given a speculative translation.
 
 ### 01:08:30–01:17:05 — Moishe and Bajla Ruchia’s work
 
 **Whiskey**, not “biscuits,” is the selected reading for Moishe’s early workplace and lunch story: Nancy and a targeted recognition check agree. “Quart” is retained as the reported wording, not a verified measurement of consumption. Nancy’s account also clarifies that Moishe travelled away to beg after he was too old to work, and attended **shul**, where people invited him home for the holidays. These details are incorporated without euphemizing them or inventing a different occupation.
 
-**Berries**, not “bells,” is the selected reading in Bajla Ruchia’s pushcart story. The account of her supporting the family, cooking for celebrations, baking, selling ice cream and lemonade, and borrowing money when Victor married is restored from Nancy’s notes. Some words about summer festivities and the name of Moishe’s travelling companion remain uncertain.
+**Berries**, not “bells,” is the selected reading in Bajla Ruchia’s pushcart story. The account of her supporting the family, cooking for celebrations, baking, selling ice cream and lemonade, and borrowing money when Victor married follows Nancy’s close-listening notes. Some words about summer festivities and the name of Moishe’s travelling companion remain uncertain.
 
 ### 01:17:40–01:18:15 — Factory pay
 
