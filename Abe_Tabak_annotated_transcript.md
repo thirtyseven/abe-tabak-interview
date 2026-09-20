@@ -1,0 +1,2725 @@
+# Abraham “Abe” Tabak
+
+## Family interview • July 1988
+
+**Complete recording:** 01:18:15.934 · **Edition:** Consolidated family-informed transcript
+
+Abe recalls family life in Krasnobród, Russian military service in an earlier generation, the upheaval of World War I, and the work of keeping his family supplied. He describes obstacles to emigration and help from relatives and other Jews. The conversation branches into other family members’ experiences in America, then returns to his parents—especially his mother’s work selling food, baking, and supporting the household.
+
+This consolidated edition combines the machine-assisted transcript with Nancy’s close-listening notes and family identifications. A dagger (†) marks family-informed wording or speaker attribution. Editorial notes distinguish research and factual corrections from words spoken in the recording. Sylvia’s “German doctor” and Abe’s correction, “It was a Russian,” follow the user and Nancy’s joint listening review. Brackets and “Check audio” mark remaining uncertainty. The complete recording has not been independently verified word for word by a human. Speaker labels follow family identifications; timestamps and subtitle timing are approximate.
+
+## Topic guide
+
+- **00:00:00** — Opening family conversation
+- **00:01:39** — Parents, ages, and Russian military service
+- **00:05:44** — Illness and family bereavements
+- **00:09:59** — A brother’s marriage and World War I
+- **00:12:40** — Relatives and World War II
+- **00:16:23** — Trench digging, displacement, and shelter
+- **00:21:20** — Trading, carrying goods, and family survival
+- **00:27:14** — Victor, siblings, and the towns
+- **00:30:12** — Marriage, visa quotas, and paperwork
+- **00:33:40** — Arrest, escorts, and recovering the passport
+- **00:41:39** — Money, inflation, and the visa
+- **00:44:28** — A birth, immigration papers, and school
+- **00:48:25** — Homes, childhood, and Pennsylvania
+- **00:58:12** — The Tabak surname
+- **01:00:25** — More family memories
+- **01:09:45** — Abe’s parents and his mother’s work
+- **01:17:05** — Closing conversation
+
+## Complete timestamped conversation
+
+Timestamps identify speech passages. † marks family-informed wording or speaker attribution. See the annotations below for context and editorial decisions.
+
+
+### 00:00:00 — Opening family conversation
+
+**[00:00:00]** That's what they say in the court.
+
+**[00:00:02]** I'm heading for Europe, I'm getting in the mood.
+
+**[00:00:05]** Why knock on your door?
+
+**[00:00:06]** They say knock on your door.
+
+**[00:00:08]** You walk through the door?
+
+**[00:00:09]** No.
+
+**[00:00:11]** They also say if you're really looking at something, be careful when you're scrutinizing it.
+
+**[00:00:15]** They say you're screwing it.
+
+**[00:00:17]** Screwing it? Yes.
+
+**[00:00:18]** They'll get a few short marks scrutinizing it.
+
+**[00:00:21]** Do you ever think it's really nice?
+
+**[00:00:25]** I don't think it's nice.
+
+**[00:00:28]** No, they can't see me how she goes that way.
+
+**[00:00:32]** They've got red tools.
+
+**[00:00:33]** They've come around and showed me their chest.
+
+**[00:00:35]** They're black, they're all the other way around.
+
+**[00:00:39]** Who?
+
+**[00:00:40]** Really?
+
+**[00:00:41]** Huh?
+
+**[00:00:41]** Liberty is only blacks, mostly blacks.
+
+**[00:00:43]** Really?
+
+**[00:00:44]** We have work around in the hotels, living there.
+
+**[00:00:47]** Stores are almost gone.
+
+**[00:00:49]** Pop, remember when you used to drive up and we'd stop at the Red Apple Rest?
+
+**[00:00:54]** I've seen this movie in 10 years.
+
+**[00:00:56]** Remember when we used to drive up and stop at the Red Apple Rest?
+
+**[00:00:59]** Then they made the thruway go.
+
+**[00:01:01]** It'll make me feel better.
+
+**[00:01:03]** I think I look better 10 years from now.
+
+**[00:01:05]** That used to be a great ride, four hours.
+
+**[00:01:07]** And good times, four hours.
+
+**[00:01:10]** There was always the Slotsville traffic jam.
+
+**[00:01:12]** Or Slotsburg.
+
+**[00:01:15]** Lapsido Park.
+
+**[00:01:17]** All those lovely towns.
+
+**[00:01:19]** Middletown.
+
+**[00:01:20]** Goshen.
+
+**[00:01:22]** That's the traffic Goshen.
+
+**[00:01:26]** Is that they're doing a movie again?
+
+**[00:01:27]** Are they doing another movie?
+
+**[00:01:29]** Why do those guys get lost?
+
+**[00:01:31]** We're gonna get their movie on our video.
+
+**[00:01:34]** Oh, that's fast.
+
+**[00:01:35]** I think we should start.
+
+**[00:01:37]** If I know any more anecdotes, I would've watched them.
+
+
+### 00:01:39 — Parents, ages, and Russian military service
+
+**[00:01:39]** **Gene†:** 86 years ago when grandpa's father decided he's gonna have, at 75, he's gonna have another child.
+
+**[00:01:48]** **Gene†:** So nine months later, guess who came out?
+
+**[00:01:52]** **Gene†:** Now you tell us the story. What happened from then on?
+
+**[00:01:57]** I don't think it was an accident.
+
+**[00:02:00]** No, I'm sure it was an accident.
+
+**[00:02:02]** Is that microphone loud enough to pick up?
+
+**[00:02:05]** Don't you realize he had another job?
+
+**[00:02:07]** Yeah.
+
+**[00:02:09]** **Abe†:** She died when she was 56 years old.
+
+**[00:02:15]** **Abe†:** He died when he was 91 or 92.
+
+**[00:02:19]** Mom said he was 96.
+
+**[00:02:21]** I remember she said no. She always exaggerated.
+
+**[00:02:24]** She always exaggerated.
+
+**[00:02:25]** Because I remember computing his birthday to 1832.
+
+**[00:02:30]** **Frances (Fran)†:** She always had a nice thing to say about him. She always had a nice thing to say about your father.
+
+**[00:02:33]** Well, he kept, he was an old man.
+
+**[00:02:35]** Yeah, he kept himself clean.
+
+**[00:02:37]** Kept himself very clean.
+
+**[00:02:38]** **[Check audio]** **Abe†:** He had to be polished and stay by the bath.
+
+**[00:02:45]** Yeah.
+
+**[00:02:46]** Was he German?
+
+**[00:02:47]** Huh?
+
+**[00:02:48]** Was he German?
+
+**[00:02:49]** German.
+
+**[00:02:51]** **Abe†:** He wasn't German. He was Jewish.
+
+**[00:02:58]** What country was he born in?
+
+**[00:03:01]** He was born in Poland.
+
+**[00:03:02]** What town?
+
+**[00:03:06]** Krasnobród.
+
+**[00:03:07]** How many brothers and sisters did he have?
+
+**[00:03:10]** He had three brothers.
+
+**[00:03:12]** I had two brothers besides him.
+
+**[00:03:15]** **Abe†:** He had two brothers beside him. And they disappeared. When his brother had to go in the Russian army, so he escaped. He didn’t want to go.
+
+**[00:03:26]** **Abe†:** And the other brother also left his wife with two children.
+
+**[00:03:33]** **Abe†:** He also disappeared in thin air.
+
+**[00:03:35]** **Abe†:** Never knew where he disappeared.
+
+**[00:03:39]** **Abe†:** And so the Russian came to look for my father's brother.
+
+**[00:03:43]** **[Check audio]** **Abe†:** [He?] was six years old at that time.
+
+**[00:03:46]** **Abe†:** That took him, that took him, while he was six years, that took him in the army.
+
+**[00:03:52]** He was drafted about that age.
+
+**[00:03:53]** **[Check audio]** **Abe†:** They called them “Cantonista.” It was in the millions of children.
+
+**[00:03:58]** Yeah, sure they had.
+
+**[00:04:00]** **Abe†:** They called them “Cantonista.”
+
+**[00:04:02]** What did they call them?
+
+**[00:04:03]** **Abe†:** “Cantonista.” That was the name of them.
+
+**[00:04:06]** **[Check audio]** [Like cadets, probably?]
+
+**[00:04:07]** **Abe†:** I remember a landsman of mine in my town was 25 years in the army.
+
+**[00:04:13]** **Abe†:** They took him off when he was a child, about six or eight years.
+
+**[00:04:17]** **Abe†:** When he came back, his name was Leib Zellner.
+
+**[00:04:24]** **Abe†:** Zellner is a soldier.
+
+**[00:04:25]** Oh, so that was his name.
+
+**[00:04:27]** **Abe†:** So that's how they named him, Leib Zellner.
+
+**[00:04:36]** **Abe†:** My mother was his third wife.
+
+**[00:04:39]** **[Check audio]** [Question about children from his earlier wives; wording unclear.]
+
+**[00:04:42]** **Abe†:** He had two children with his second wife, but they died.
+
+**[00:04:46]** And the first none?
+
+**[00:04:48]** **Abe†:** The first he didn't have.
+
+**[00:04:51]** **Abe†:** When he married my mother, she gave birth to nine children.
+
+**[00:04:58]** Nine children, huh?
+
+**[00:05:00]** Yeah.
+
+**[00:05:01]** Are you sure they were all his?
+
+**[00:05:03]** Well, if you looked at them, they looked so much alike.
+
+**[00:05:07]** Whatever it was, they had the same father.
+
+**[00:05:08]** **Abe†:** My mother was very religious.
+
+**[00:05:10]** **Abe†:** She was a very religious woman.
+
+**[00:05:12]** **Abe†:** Oh, yeah.
+
+**[00:05:14]** **Abe†:** In that time in Europe, they didn't know monkey business.
+
+**[00:05:19]** **Abe†:** They didn't know monkey business.
+
+**[00:05:23]** That's what you said.
+
+**[00:05:24]** I'm not so sure about that, Pop. I think monkey business is gone.
+
+**[00:05:31]** Nobody's mother ever knew.
+
+**[00:05:36]** Are these things you really should ask? Not a video camera.
+
+**[00:05:41]** You expect an honest answer?
+
+
+### 00:05:44 — Illness and family bereavements
+
+**[00:05:44]** **[Check audio]** **Sylvia†:** It was the German doctor that helped [unclear pronoun].
+
+**[00:05:47]** **Abe†:** It was a Russian. [Other conversation overlaps.]
+
+**[00:05:59]** **Abe†:** He had to go around to check if somebody in the house had typhus, to put out a sign for nobody to go in.
+
+**[00:06:08]** Oh, it was typhus?
+
+**[00:06:09]** **Abe†:** At that time my mother was very sick. She had asthma. She swelled up. He came in, he examined her. He prescribed two medicines, and right away she got healthy.
+
+**[00:06:24]** **Abe†:** And after two years or three years, the war finished.
+
+**[00:06:31]** **Abe†:** He went back home because after the war they sent all the prisoners of war home.
+
+**[00:06:39]** **Abe†:** And she got again sick and we threw away the prescription.
+
+**[00:06:45]** **Abe†:** And the other doctors didn't know.
+
+**[00:06:48]** **Abe†:** So that's how she died.
+
+**[00:06:50]** **Abe†:** She was about 19, 20 weeks in bed. I came home that time, ten o’clock at night from work. And then I came in and she died.
+
+**[00:07:07]** You saw her dying?
+
+**[00:07:09]** Yes.
+
+**[00:07:10]** **Frances (Fran)†:** How did Mama's father die?
+
+**[00:07:14]** **Frances (Fran)†:** He died when she was very young, too.
+
+**[00:07:17]** She was an orphan.
+
+**[00:07:19]** **[Check audio]** ...SARS Pallet, or some other unit.
+
+**[00:07:22]** **[Check audio]** That's Mammoth's Pallet.
+
+**[00:07:24]** **[Check audio]** Yeah, that's Mammoth's Pallet.
+
+**[00:07:25]** So he tried rushing back into Poland, and he swam a lake.
+
+**[00:07:31]** And then he got pneumonia?
+
+**[00:07:33]** He got TB.
+
+**[00:07:34]** Oh, he got TB from the lake.
+
+**[00:07:37]** He got TB and...
+
+**[00:07:39]** **[Check audio]** Pneumonia [unclear].
+
+**[00:07:40]** **[Check audio]** [Unclear overlapping discussion of illness and treatment.]
+
+**[00:07:44]** **[Check audio]** It was TB [remainder unclear].
+
+**[00:07:47]** Mama always said it was TB that he got.
+
+**[00:07:49]** Yeah, that's what he said.
+
+**[00:07:51]** **[Check audio]** [Unclear opening.] That’s why Mom was always afraid of TB herself.
+
+**[00:07:56]** Well, TB was rampant in our family.
+
+**[00:07:57]** That's right, I remember that.
+
+**[00:07:59]** Mama had TB, but she healed up.
+
+**[00:08:02]** How long?
+
+**[00:08:04]** **[Check audio]** [Her lungs were damaged?]
+
+**[00:08:07]** **[Check audio]** She used to go around all over.
+
+**[00:08:09]** And her mother died of what?
+
+**[00:08:10]** What? Her mother died what?
+
+**[00:08:14]** Mama's mother? I don't know.
+
+**[00:08:15]** She said it was brain fever.
+
+**[00:08:17]** It was a stroke.
+
+**[00:08:18]** She said it was brain fever and she was sick for a while.
+
+**[00:08:21]** Maybe it was a stroke, maybe it was the same.
+
+**[00:08:23]** I don't know.
+
+**[00:08:24]** **Sylvia†:** When I was sick with encephalitis, I was 28, and that was the age that mom's mother was when she died.
+
+**[00:08:31]** **Sylvia†:** And she said it sounded, you know, her...
+
+**[00:08:34]** **[Check audio]** Well, it's probably her actual name.
+
+**[00:08:35]** **[Check audio]** [No reliable transcription for this interval; check the recording.]
+
+**[00:08:48]** Oh, that's right, she married again, Mom's mother.
+
+**[00:08:51]** At least that was Mom's view of the world.
+
+**[00:08:55]** That was Mom's view of the world, yes.
+
+**[00:09:00]** My mother's mother remarried.
+
+**[00:09:01]** It wasn't good for the stepchildren, you know.
+
+**[00:09:06]** Well, she was 17, right?
+
+**[00:09:08]** **[Check audio]** No, this is my mother who was 17 when she married me.
+
+**[00:09:14]** Her mother?
+
+**[00:09:15]** My mother was about 26. In her 20s, her husband died, and then she was forced to marry an old man.
+
+**[00:09:23]** **[Check audio]** She had two little children.
+
+**[00:09:25]** She was only about 28 years old.
+
+**[00:09:26]** So she was forced to marry this old man, my mother used to say.
+
+**[00:09:29]** This old man.
+
+**[00:09:31]** She think that...
+
+**[00:09:33]** **Sylvia†:** Tortured her to death.
+
+**[00:09:36]** **Frances (Fran)†:** Well, not tortured—mitchered. Mitchered has more of an annoyance, pestered her.
+
+**[00:09:46]** She thought that maybe was the...
+
+**[00:09:48]** History is being made here.
+
+**[00:09:51]** Yeah, let's get it to the answer.
+
+**[00:09:54]** This is it.
+
+**[00:09:56]** Just to tell us about how you carried this water at night.
+
+
+### 00:09:59 — A brother’s marriage and World War I
+
+**[00:10:00]** First World War.
+
+**[00:10:02]** to carry things from one town to another.
+
+**[00:10:03]** **Abe†:** When the war broke out, they took my brother to the army. He was in the reserve. He was such a nice-looking man.
+
+**[00:10:16]** **[Check audio]** When he came home from the army, he was in the south,
+
+**[00:10:19]** **[Check audio]** you know, Jewish people.
+
+**[00:10:27]** **Abe†:** He came home, he was so nice-looking, the girls were crazy about him. When he went to the army, he left a girl. She was older. She had a red scar on her face.
+
+**[00:10:43]** **Abe†:** But it looks like he was in love with her. He was in the army. He had other Jewish friends.
+
+**[00:10:51]** **Abe†:** The Jewish girls used to go out and send us pictures with him.
+
+**[00:10:56]** **Abe†:** And he came home. He started again to go with this girl. So people came over to my mother: how come you let such a nice-looking man get married to Yitta?
+
+**[00:11:10]** **Abe†:** Her name was Yitta. My mother said, “I wouldn’t sleep with her, but he likes her.”
+
+**[00:11:20]** **Frances (Fran)†:** She doesn’t have to sleep with her. The son has to sleep with her. She’s not going to interfere.
+
+**[00:11:27]** **Abe†:** She arranged a nice wedding. The tailor used to come in our house to make everybody suits.
+
+**[00:11:41]** **Abe†:** And then two years later the war broke out.
+
+**[00:11:48]** **Abe†:** They had two children, a boy and a girl. The boy died. He got chickenpox or measles.
+
+**[00:12:07]** **Abe†:** And he was staying right near the Austrian border.
+
+> **Editorial note:** Nancy identifies the second-oldest brother as Yisroel; his wife was Yitta and their daughter Hansha.
+
+**[00:12:13]** **Abe†:** Then the Austrians tried to go across the border.
+
+> **Editorial note:** Nancy identifies the second-oldest brother as Yisroel; his wife was Yitta and their daughter Hansha.
+
+**[00:12:19]** **Abe†:** That's when the army...
+
+> **Editorial note:** Nancy identifies the second-oldest brother as Yisroel; his wife was Yitta and their daughter Hansha.
+
+**[00:12:22]** **Abe†:** And he was the first to get killed.
+
+> **Editorial note:** Nancy identifies the second-oldest brother as Yisroel; his wife was Yitta and their daughter Hansha.
+
+**[00:12:25]** He was your oldest brother?
+
+> **Editorial note:** Nancy identifies the second-oldest brother as Yisroel; his wife was Yitta and their daughter Hansha.
+
+**[00:12:28]** He's not... the second one.
+
+> **Editorial note:** Nancy identifies the second-oldest brother as Yisroel; his wife was Yitta and their daughter Hansha.
+
+**[00:12:30]** What's his name?
+
+> **Editorial note:** Nancy identifies the second-oldest brother as Yisroel; his wife was Yitta and their daughter Hansha.
+
+**[00:12:32]** **Abe†:** His name was Yisroel. [The name is repeated in overlapping speech.]
+
+> **Editorial note:** Nancy identifies the second-oldest brother as Yisroel; his wife was Yitta and their daughter Hansha.
+
+
+### 00:12:40 — Relatives and World War II
+
+**[00:12:42]** What about the cousin that you were so close to?
+
+**[00:12:44]** That was close to you?
+
+**[00:12:45]** Was it that close, as we say?
+
+**[00:12:47]** Which cousin?
+
+**[00:12:52]** **Abe†:** And then they notified the rabbi in our town.
+
+**[00:12:58]** **Abe†:** Mama didn't believe.
+
+**[00:13:02]** **Abe†:** And then another brother went to the army.
+
+> **Editorial note:** Nancy identifies this brother as Chaim.
+
+**[00:13:05]** **Abe†:** He was captured by the Germans. He used to send us money from there. He was a tailor. He used to make suits for them, dresses. He earned money, he used to send us money.
+
+**[00:13:26]** **[Check audio]** **Abe†:** And in the Second World War, he got killed [unclear words].
+
+**[00:13:36]** He also got killed?
+
+**[00:13:38]** **Abe†:** He and his wife and five children.
+
+**[00:13:41]** Oh, German World War II. That's when the Germans went into Poland.
+
+**[00:13:44]** Yeah.
+
+**[00:13:45]** This is World War II?
+
+**[00:13:46]** **[Check audio]** **Abe†:** He escaped to Russia. In Ukraine, he settled in a town. And he didn’t have a chance. When the Germans approached, they chased him in a mine shaft. And they let in water and drowned the whole town.
+
+> **Editorial note:** This is Abe’s reported account, not a verified cause of death. Nancy says the family tree instead records Chaim as having starved while escaping the Nazis.
+
+**[00:14:06]** The Germans or the Ukrainians?
+
+**[00:14:07]** The Germans.
+
+**[00:14:09]** The World War I?
+
+**[00:14:10]** The World War II.
+
+**[00:14:11]** He survived one.
+
+**[00:14:13]** He got his two.
+
+**[00:14:14]** **[Check audio]** **Abe†:** [Unclear opening about Yitta.] They were in a different town and they got saved. Her daughter, Hansha was her name. You saw Hansha and you saw [Yitzak]. My older brother’s son, and they’re married.
+
+> **Editorial note:** Nancy identifies Yitta and Hansha as Yisroel’s wife and daughter, and Yitzak as Chaim’s son. She flags the interview’s mixing of relatives; the transcript does not repair that family relationship silently.
+
+**[00:14:41]** **Abe†:** So he was also... he was such a healthy man.
+
+**[00:14:47]** **Abe†:** The Germans caught him.
+
+**[00:14:49]** **Abe†:** And a soldier took him someplace to...
+
+**[00:14:54]** **Abe†:** To the train to send him into Germany for work, or to kill him.
+
+**[00:14:59]** So they passed by...
+
+**[00:15:05]** **[Check audio]** It's what, what, how do you call it, a well.
+
+**[00:15:10]** A well.
+
+**[00:15:10]** A well.
+
+**[00:15:11]** A well.
+
+**[00:15:13]** **[Check audio]** **Abe†:** You know, with the pail they used to bring up the water. He said he’s thirsty, so the German let him drink the water. Then the German went over to drink… [Abe gestures the action, according to Nancy.]
+
+**[00:15:30]** And threw him in the well?
+
+**[00:15:32]** **Abe†:** No, he threw the German in the well.
+
+**[00:15:34]** When was this?
+
+**[00:15:35]** When he was being captured, when he was being shipped to...
+
+**[00:15:38]** **Sylvia†:** Which brother was this, pop?
+
+**[00:15:40]** **Abe†:** That was Yitzak, my brother’s son.
+
+**[00:15:43]** **[Check audio]** Oh, your brother's son, the nephew.
+
+**[00:15:45]** **[Check audio]** Oh.
+
+**[00:15:46]** **Abe†:** Then they were both in Israel. He died.
+
+**[00:15:52]** I was looking for you. I was waiting for you.
+
+**[00:15:54]** You said 1 o'clock?
+
+**[00:15:57]** We thought you would come here first.
+
+**[00:16:00]** We thought you'd come here first to change.
+
+**[00:16:02]** We thought you'd come and get Grandpa.
+
+**[00:16:03]** **[Check audio]** [Unclear side conversation.]
+
+**[00:16:08]** Where's Ethel right here?
+
+**[00:16:09]** I'm giving her to you.
+
+**[00:16:11]** That's all right.
+
+**[00:16:12]** And now we can leave.
+
+**[00:16:15]** So, Grandpa was...
+
+**[00:16:17]** What year was that? Was that World War II?
+
+**[00:16:20]** **[Check audio]** [World War II; overlapping response unclear.]
+
+**[00:16:22]** **Abe†:** But in the First World War, I was at that time, the Russians were at that time.
+
+
+### 00:16:23 — Trench digging, displacement, and shelter
+
+**[00:16:32]** **[Check audio]** **Abe†:** Russia had occupied [unclear]—Russian Poland.
+
+**[00:16:37]** **[Check audio]** **Abe†:** And when the Germans made successes on the front, they started to push toward [our town?].
+
+**[00:16:47]** **[Check audio]** **Abe†:** So a group of engineers came to our town to dig trenches [to fight the Germans?].
+
+**[00:16:57]** **Abe†:** So I was at that time 14 years old.
+
+**[00:17:00]** **Abe†:** They took out everybody on a Saturday to take to work, to dig trenches.
+
+**[00:17:07]** **Abe†:** So a rabbi came out and said,
+
+**[00:17:09]** **Abe†:** He said, it’s Sabbath, we’re not allowed to work.
+
+**[00:17:15]** **Abe†:** Let us tomorrow in the morning,
+
+**[00:17:18]** **Abe†:** Everybody’s going to come out and dig trenches.
+
+**[00:17:22]** **Abe†:** The storekeepers, they couldn’t; they had to attend to business.
+
+**[00:17:31]** **[Check audio]** **Abe†:** But children—me and my [brother’s son?],
+
+**[00:17:35]** **[Check audio]** **Abe†:** [He was my age?] We used to go, boys. And they used to pay us a ruble a day.
+
+**[00:17:42]** **Abe†:** We worked a whole week, and on Sunday was paid.
+
+**[00:17:47]** **Abe†:** Just to stay with Polish people. Sometimes the Pollock beat us up.
+
+**[00:17:54]** **Abe†:** But we were staying in the line for later for the pay.
+
+**[00:17:57]** **Frances (Fran)†:** They used to beat you up?
+
+**[00:17:59]** **Abe†:** Yeah.
+
+**[00:18:00]** **Sylvia†:** Why?
+
+**[00:18:01]** **Abe†:** Why?
+
+**[00:18:02]** **Abe†:** Why? Why?
+
+**[00:18:02]** **[Possibly Sylvia and Fran]†:** Because they were Jewish!
+
+**[00:18:04]** **Abe†:** Because... right
+
+**[00:18:07]** **Abe†:** After a couple weeks they gave an order the whole town has to leave.
+
+**[00:18:15]** **Abe†:** So we stopped in the woods.
+
+**[00:18:22]** **Abe†:** There was no place where to go.
+
+**[00:18:24]** **[Check audio]** **Abe†:** We used to make fires and [cook?].
+
+**[00:18:28]** **Abe†:** Then came another order.
+
+**[00:18:30]** **Abe†:** We cannot stay in the woods.
+
+**[00:18:34]** **Abe†:** So we escaped.
+
+**[00:18:36]** **Abe†:** My mother and my brother, all the brothers,
+
+**[00:18:38]** **[Check audio]** **Abe†:** [Unclear wording about Poles and wagons.] And we went to Zamość, a big town.
+
+**[00:18:44]** **Abe†:** Over there we had a cousin.
+
+**[00:18:46]** **Abe†:** He stayed with them.
+
+**[00:18:48]** **Abe†:** While we escaped, they burned up the whole town.
+
+**[00:18:52]** **Abe†:** The Russians, before they left, they burned the town.
+
+**[00:18:56]** **Abe†:** So after we stayed a couple weeks, it was very crowded.
+
+**[00:19:04]** **Abe†:** We had only one room.
+
+**[00:19:06]** **Abe†:** We came back to our town.
+
+**[00:19:11]** **Abe†:** We couldn't go back because it was burned up, so we stopped in a village.
+
+**[00:19:15]** **Abe†:** And we also stayed outside.
+
+**[00:19:19]** **Abe†:** I used to make a little hill.
+
+**[00:19:22]** **[Check audio]** **Abe†:** I used to dig in. It was sandy ground. I used to go and pick up [wood?] and make a fire on top.
+
+**[00:19:30]** **[Check audio]** I used to cook. Once I was put my foot in there and my brother put his in the whole sand.
+
+**[00:19:41]** **[Check audio]** I sent, I sent, follow my foot.
+
+**[00:19:46]** What happened?
+
+**[00:19:47]** The whole fire?
+
+**[00:19:48]** **[Check audio]** The [sand], the hot [sand], [fell on?] my foot.
+
+**[00:19:52]** And then...
+
+**[00:19:53]** What did they do when they made the fire?
+
+**[00:19:55]** They didn't know what to do so they looked for...
+
+**[00:20:00]** **[Check audio]** **Abe†:** We had a Jewish man, a [storekeeper?], who was a rich man.
+
+**[00:20:04]** **[Check audio]** **Abe†:** He was very good natured, but he didn't have no room for us [to live in?].
+
+**[00:20:08]** **Abe†:** But at night, he used to go up on the attic and let us sleep at night on the attic.
+
+**[00:20:17]** **Abe†:** So everybody who passed by came up there to sleep in the attic.
+
+**[00:20:24]** **Abe†:** How big was the attic?
+
+**[00:20:25]** **Abe†:** The attic was big and it was hay.
+
+**[00:20:28]** **Abe†:** And the attic, and it started to get dirty with lice, you know.
+
+**[00:20:33]** **Abe†:** And we, everybody got a sickness.
+
+**[00:20:36]** **Abe†:** They got rashes.
+
+**[00:20:38]** So you got sick from the lice. They transmitted something.
+
+**[00:20:41]** **Abe†:** We got rashes.
+
+**[00:20:43]** You were 15?
+
+**[00:20:45]** **Abe†:** I was about 15 years old.
+
+**[00:20:47]** And who was, who were you living with then?
+
+**[00:20:50]** Who was everybody in your family?
+
+**[00:20:52]** Everybody in the family.
+
+**[00:20:56]** He and all those brothers looked around and they found the house.
+
+**[00:21:04]** The Russians escaped. They were afraid for the Austrians, so they left the house.
+
+**[00:21:10]** So his brother rent us the house and we opened up like a grocery.
+
+**[00:21:18]** **Abe†:** We had kerosene to sell, and whiskey and salt and sugar.
+
+
+### 00:21:20 — Trading, carrying goods, and family survival
+
+**[00:21:26]** **Abe†:** At night my mother and my brother used to go around by the peasants and buy butter and eggs.
+
+**[00:21:35]** **Abe†:** And every morning, three o'clock in the morning, everybody would have a package.
+
+**[00:21:40]** **[Check audio]** **Abe†:** We went from that village to Zamość, about three miles [unit uncertain]. We came in at that time, eight o’clock in the morning, and we sold it.
+
+**[00:21:52]** **[Check audio]** We sold it. They knew where I was going to go, so we sold it.
+
+**[00:21:55]** **Abe†:** On the way back we bought sugar and kerosene; everybody carried it back.
+
+**[00:22:03]** **Abe†:** And then next to our house, Austrian gendarmes moved in. Police, but military police.
+
+**[00:22:22]** **[Check audio]** Because at that time, in wartime, it was [unclear].
+
+**[00:22:27]** **Abe†:** They took a Polish woman as a maid.
+
+**[00:22:33]** **Abe†:** She came into my mother to borrow a pot.
+
+**[00:22:37]** **Abe†:** My mother was religious: she’ll borrow a pot, she’ll make a traif.
+
+**[00:22:42]** **Abe†:** So she refused.
+
+**[00:22:44]** **[Check audio]** **Abe†:** [Unclear words.] She told the sergeant [the family had taken wood; Nancy’s interpretation].
+
+**[00:22:57]** **Abe†:** So on a Friday night he came in and he started to beat my brother.
+
+> **Editorial note:** Nancy is uncertain whether Abe’s mother was also hit or threatened; she refers to a later audio interview, which has not been supplied here.
+
+**[00:23:02]** **[Check audio]** My mother used to say [unclear].
+
+> **Editorial note:** Nancy is uncertain whether Abe’s mother was also hit or threatened; she refers to a later audio interview, which has not been supplied here.
+
+**[00:23:08]** What was that?
+
+**[00:23:10]** **[Check audio]** He started beating [him], because his mother wouldn’t give the pot to this woman.
+
+**[00:23:18]** She told a story about him.
+
+**[00:23:20]** And the soldiers came.
+
+**[00:23:21]** **[Check audio]** The old woman lay in bed and don't answer nothing.
+
+**[00:23:27]** **Abe†:** We were afraid to stay there.
+
+**[00:23:34]** **[Check audio]** **Abe†:** Once my father went to a town and he bought whiskey, five gallons of whiskey.
+
+**[00:23:42]** **[Check audio]** **Abe†:** We were at the bar of the house.
+
+**[00:23:46]** **[Check audio]** **Abe†:** A young man came over, you there, what are you carrying?
+
+**[00:23:52]** **Abe†:** He said, “Kerosene.”
+
+**[00:23:56]** **[Check audio]** **Abe†:** So he opened up and he smelled the sauce whiskey.
+
+**[00:24:00]** **[Check audio]** **Abe†:** He took his gun, banged and he dropped it.
+
+**[00:24:06]** **[Check audio]** **Abe†:** So we saw we cannot stay there no more.
+
+**[00:24:11]** **Abe†:** So we moved in in another village.
+
+**[00:24:14]** **Abe†:** The other village we moved in was German; they lived there for years in Poland.
+
+**[00:24:23]** **Abe†:** So they used to come in.
+
+**[00:24:26]** **Abe†:** The ruble was more valuable than the Austrian mark, crown.
+
+**[00:24:34]** **Abe†:** So they used to come in.
+
+**[00:24:36]** **Abe†:** My mother used to ask them, but what kind of money are you going to buy?
+
+**[00:24:39]** **Abe†:** They said the ruble.
+
+**[00:24:43]** **Abe†:** Then they had the fact that the merchandise, they took out Austrian crowns.
+
+**[00:24:49]** **Abe†:** So I lost money.
+
+**[00:24:54]** **Abe†:** So we had to move away.
+
+**[00:24:58]** **Abe†:** My brother moved to Tomaszów. My sister-in-law had parents there.
+
+**[00:25:11]** So they moved in, find an apartment.
+
+**[00:25:13]** **[Check audio]** **Abe†:** My brother used to carry flour and salt from one store to another. They called them carriers, [tragers?].
+
+**[00:25:28]** **Abe†:** And we came back in town. The town was burned up.
+
+**[00:25:33]** **Abe†:** So a woman, which we know, we were friends, took us in.
+
+**[00:25:45]** **Abe†:** It was my sister-in-law’s sister. She gave us the courtesy to take us in when my mother was sick.
+
+**[00:25:54]** **[Check audio]** And they used to, and it was small children, they used to go in the market to buy,
+
+**[00:26:00]** **[Check audio]** and the children went around, and my children would ask.
+
+**[00:26:04]** **Abe†:** My mother couldn’t stay. And money we didn’t have.
+
+**[00:26:10]** **Abe†:** So I went over in a town, in a town we had relatives.
+
+**[00:26:20]** **Abe†:** But they were also poor, so one boy was my age, he was a year younger.
+
+**[00:26:26]** **Abe†:** He took me to my mother's relatives in a small village.
+
+**[00:26:34]** **Abe†:** There were tailors there. They used to work for the peasantry.
+
+**[00:26:40]** **Abe†:** So we went there and they gave me, at that time, a nice couple of money too.
+
+**[00:26:49]** **Abe†:** I came back in Tomaszów. It was a big snow falling, and I couldn’t go back to Krasnobród.
+
+**[00:26:57]** **Abe†:** So somebody, I found out somebody with a sled, with a horse, he gave me, he took me there.
+
+**[00:27:05]** **Abe†:** He took me there. I was the only one to take care of them. My father was sick.
+
+
+### 00:27:14 — Victor, siblings, and the towns
+
+**[00:27:14]** † Frances: Where was Victor all this time?
+Abe: Victor was in America.
+
+**[00:27:18]** † Family member: When did he come?
+Abe: He went in 1913.
+
+**[00:27:25]** **Abe†:** We were six brothers and one sister. And I was the youngest.
+
+**[00:27:32]** **[Check audio]** Did your father have other children now?
+
+**[00:27:34]** **[Check audio]** Six from your mother?
+
+**[00:27:37]** **[Check audio]** They used to leave them to go.
+
+**[00:27:41]** **[Check audio]** Right away, they went in the back wagon.
+
+**[00:27:45]** **[Check audio]** The boys would move.
+
+**[00:27:48]** **Abe†:** In Tomaszów, we had a far distant cousin, mother’s cousin.
+
+**[00:28:00]** **[Check audio]** Excuse me.
+
+**[00:28:02]** **[Check audio]** Excuse me.
+
+**[00:28:05]** **Abe†:** Mama’s distant relative.
+
+**[00:28:10]** **[Check audio]** Not the one from Brooklyn.
+
+**[00:28:16]** **Abe†:** So, the rich man, he used to have a concession for tobacco, whiskey, you know,
+
+**[00:28:24]** **Abe†:** and he would go to them and maybe they would help.
+
+**[00:28:29]** **[Check audio]** **Abe†:** [Unclear conversation with the woman; Nancy understands Abe to be asking for help because his mother was sick.]
+
+**[00:28:43]** **Abe†:** So she gave me half a bread, potatoes. But money, I don’t think she gave me.
+
+**[00:28:50]** You had to talk louder.
+
+**[00:28:51]** I had to talk.
+
+**[00:28:52]** Louder, Pop.
+
+**[00:28:53]** He used to go around.
+
+**[00:28:56]** Why don't you draw the chairs up?
+
+**[00:28:57]** **Abe†:** He used to go around to the owners and stores.
+
+**[00:29:02]** **[Check audio]** **Abe†:** I had to go clean the streets and dig the site.
+
+**[00:29:07]** **[Check audio]** **Abe†:** So I didn't have no time to go.
+
+**[00:29:10]** **[Check audio]** **Abe†:** So they used to give me a ruble.
+
+**[00:29:12]** **[Check audio]** That's how I used to go. That's how I used to go.
+
+**[00:29:15]** Where was I born? I can't remember.
+
+**[00:29:20]** **[Check audio]** † Where was I born? Tomaszów? You were born in Tomaszów.
+
+**[00:29:26]** **[Check audio]** † Grandma was from Tomaszów, right?
+
+**[00:29:28]** **[Check audio]** † Grandma was from Tomaszów and you were from Krasnobród.
+
+**[00:29:31]** **[Check audio]** † And so you moved to Tomaszów. In the war time, we moved to Tomaszów.
+
+**[00:29:36]** **[Check audio]** † Tomaszów was wiped off the map. No, it's still on the map.
+
+**[00:29:40]** **[Check audio]** † It's a different Tomaszów.
+
+**[00:29:42]** **[Check audio]** † There's no Tomaszów anywhere.
+
+**[00:29:43]** **[Check audio]** † There is a Tomaszów on the map.
+
+**[00:29:46]** **[Check audio]** † Zamość?
+
+**[00:29:48]** **[Check audio]** † What was Zamość?
+
+**[00:29:49]** **[Check audio]** † There was two Zamość.
+
+**[00:29:50]** It was an old city.
+
+**[00:29:52]** It's a city that what's his name? Michner writes about.
+
+**[00:29:55]** **[Check audio]** † So it's Zamość.
+
+**[00:29:56]** They were the old city and the new city together.
+
+**[00:30:00]** They were right together?
+
+**[00:30:01]** Yeah, you could have walked from one to the other.
+
+**[00:30:03]** **[Check audio]** † Where was Zamość? Was that near Krasnobród?
+
+**[00:30:06]** **[Check audio]** † That's between Krasnobród and Tomaszów.
+
+**[00:30:09]** All kinds of small towns.
+
+
+### 00:30:12 — Marriage, visa quotas, and paperwork
+
+**[00:30:12]** What's the story, Grandpa, when you were arrested for your cousin?
+
+**[00:30:19]** How did that happen? What's the story?
+
+**[00:30:20]** **[Check audio]** **Abe†:** This happened before, when I got my ticket to go to America from [Victor?].
+
+**[00:30:30]** **Abe†:** So I made a passport.
+
+**[00:30:32]** Make it a little louder, Pa.
+
+**[00:30:33]** **Abe†:** I had to make a passport.
+
+**[00:30:37]** **[Check audio]** **Abe†:** I had to go to the police department [unclear words].
+
+**[00:30:46]** **Abe†:** And then I had to go to the draft board.
+
+**[00:30:50]** **[Check audio]** **Abe†:** That was in different [towns?].
+
+**[00:30:53]** **Abe†:** Because I was born in Krasnobród, I had to go to Zamość, to the draft board.
+
+**[00:30:57]** **Abe†:** to the draft board. And I got everything and I made a passport and I went to Warsaw to
+
+**[00:31:06]** **[Check audio]** **Abe†:** They postponed me for a year. [Unclear words about the visa.] So I came back.
+
+**[00:31:12]** They postponed it? They said you couldn't leave yet?
+
+**[00:31:14]** The quota was closed. Oh, that was our quota.
+
+**[00:31:19]** The United States quota. The quota was... I couldn't go no more.
+
+**[00:31:25]** **[Check audio]** **Abe†:** [Unclear words about the delay.] At that point I got married.
+
+**[00:31:34]** **Frances (Fran)†:** So during that time you got married?
+
+**[00:31:36]** **Abe†:** During that year I got married, yeah.
+
+**[00:31:39]** **Abe†:** I figured maybe I wouldn't be able to go even after a year.
+
+**[00:31:44]** **Frances (Fran)†:** So you might as well get married.
+
+**[00:31:46]** **Abe†:** Might as well get married.
+
+**[00:31:47]** **Abe†:** So I got married.
+
+**[00:31:49]** **Abe†:** A year later, in 1922, in May, I got a letter from the consulate that I should come get the visa.
+
+**[00:32:00]** **Abe†:** So my passport expired. I had to make a new one.
+
+**[00:32:04]** **[Check audio]** [Unclear words about the passport.]
+
+**[00:32:07]** **Abe†:** So I had to go again to the police and again to the draft board.
+
+**[00:32:11]** **Abe†:** And I came to the draft board.
+
+**[00:32:16]** **Abe†:** I put an application up on the... so...
+
+**[00:32:20]** **[Check audio]** Here, it's civil people in the [draft board?], over there's soldiers.
+
+**[00:32:27]** **Abe†:** So the... the lieutenant told me,
+
+**[00:32:31]** **Abe†:** come next week.
+
+**[00:32:34]** **Abe†:** I came next week.
+
+**[00:32:36]** **Abe†:** He was busy, he couldn't do it.
+
+**[00:32:38]** **[Check audio]** [Unclear words.]
+
+**[00:32:40]** **Abe†:** I had to go from one city to another.
+
+**[00:32:45]** **Abe†:** Finally, once I came down, a Jewish man asked me,
+
+**[00:32:49]** **Abe†:** he says, you've got to get money.
+
+**[00:32:54]** **Abe†:** Tell him you'll give him money, maybe he'll do it.
+
+**[00:32:57]** **Abe†:** So I went back in and told him,
+
+**[00:33:00]** **Abe†:** if you make it, I'll give you a nice tip.
+
+**[00:33:05]** **Abe†:** I came back a week later.
+
+**[00:33:08]** **Frances (Fran)†:** So they gave it to you.
+
+**[00:33:10]** **Abe†:** I got it.
+
+**[00:33:11]** **Abe†:** Then I got to Warsaw for the visa.
+
+**[00:33:17]** **Abe†:** I came late.
+
+**[00:33:18]** **Abe†:** Until I got my passport in order.
+
+**[00:33:24]** **Abe†:** The visa was out.
+
+**[00:33:26]** **Abe†:** So I came there. They gave me another three weeks to come for the visa.
+
+**[00:33:31]** **Abe†:** So I came home.
+
+**[00:33:34]** **Abe†:** When I came home I had to go work because I had to make a living.
+
+**[00:33:39]** **Abe†:** And I was working in a shoemaker.
+
+
+### 00:33:40 — Arrest, escorts, and recovering the passport
+
+**[00:33:44]** **Abe†:** I came home on a Thursday night. Every Thursday was a market.
+
+**[00:33:50]** **[Check audio]** **Abe†:** All the peasants used to come with horses and with wagons and with [cherries?] and all kinds of food.
+
+**[00:33:56]** **Abe†:** That was in the summertime.
+
+**[00:33:57]** **Abe†:** time. And I come home and I sit down and I eat supper. My oldest brother's little girl,
+
+**[00:34:07]** **Abe†:** she was about three years old, the police were looking for Tabak. So they came to
+
+**[00:34:13]** **Abe†:** my brother. So she heard they were looking for me. So she brought him in. She didn't
+
+**[00:34:20]** **Abe†:** She didn't mean anything. She didn't know.
+
+**[00:34:24]** **Abe†:** A policeman comes in, says,
+
+**[00:34:26]** **Abe†:** Abram Tabak? Yes.
+
+**[00:34:28]** **[Check audio]** **Abe†:** Obiruse.
+
+**[00:34:29]** **[Check audio]** **Abe†:** Polish Obiruse. Get dressed.
+
+**[00:34:32]** **Abe†:** I was just sitting and eating supper.
+
+**[00:34:35]** **Abe†:** I felt everything is in order. I'm not afraid.
+
+**[00:34:40]** **Abe†:** And I come.
+
+**[00:34:42]** **Abe†:** While I was going past by the town, everybody was looking.
+
+**[00:34:45]** **Abe†:** Everybody asked me, what's the matter? What did I arrest you?
+
+**[00:34:50]** **[Check audio]** **Abe†:** I said nothing. I passed by shoemaker, I used to work with him.
+
+**[00:34:55]** **Abe†:** He said, if anything I could help. I said no.
+
+**[00:34:59]** **Abe†:** I come into the police station, the sergeant came over to me.
+
+**[00:35:04]** **Abe†:** You want to go to America, you have to go in the army. Arrest him.
+
+**[00:35:12]** **[Check audio]** **Abe†:** It was on a Thursday night. I was sitting Thursday night and Friday all day; Saturday morning…
+
+**[00:35:21]** **Abe†:** A policeman on a horse, and I was walking.
+
+**[00:35:25]** **Abe†:** They took me to the one...
+
+**[00:35:28]** Talk a little louder.
+
+**[00:35:30]** **Abe†:** He was on a horse and I was walking.
+
+**[00:35:33]** **Abe†:** They brought me into a village.
+
+**[00:35:36]** **Abe†:** I came to the village and they brought me into the police.
+
+**[00:35:40]** **[Check audio]** They didn't... What is that then? A young boy...
+
+**[00:35:46]** He didn't look Jewish either.
+
+**[00:35:49]** **Abe†:** I looked much younger also than...
+
+**[00:35:53]** **Abe†:** He said, here the people from your town have an orchard, pears and apples.
+
+**[00:36:02]** It was very friendly. I used to live with them.
+
+**[00:36:05]** **Abe†:** I go over and they give me pears and apples. They didn’t have no jail to put me in.
+
+**[00:36:13]** **Abe†:** So they arranged with another Pollock to take me to another town.
+
+**[00:36:18]** **[Check audio]** **Abe†:** So they took me into a small town, [name unclear].
+
+**[00:36:23]** **Abe†:** They brought me in Friday nights.
+
+**[00:36:26]** **[Check audio]** **Abe†:** And I didn’t know how [Mama’s relatives?—unclear].
+
+**[00:36:30]** **Abe†:** I don't know how they found out.
+
+**[00:36:33]** **Abe†:** They came up to the jail and they brought me something to eat.
+
+**[00:36:41]** **Abe†:** They gave the watchman in jail.
+
+**[00:36:47]** **Abe†:** He wanted to put me by the door, in straw.
+
+**[00:36:51]** **Abe†:** So they paid him and they put me in this bed.
+
+**[00:36:53]** **Abe†:** He was sleeping by the door. I shouldn't escape.
+
+**[00:36:58]** **Abe†:** They had a passport.
+
+**[00:37:01]** **Abe†:** And the next morning they took me in another town.
+
+**[00:37:06]** **Abe†:** A young boy brought me in jail.
+
+**[00:37:12]** **Abe†:** And somehow a Jewish man came over.
+
+**[00:37:16]** **Abe†:** He said, are you?
+
+**[00:37:18]** **Abe†:** I said, from Krasnobród.
+
+**[00:37:20]** **Abe†:** Oh yeah, I'm also from Krasnobród.
+
+**[00:37:23]** **Abe†:** And he also brought me something to eat.
+
+**[00:37:29]** **Abe†:** A landsman. He’s a Krasnobród man.
+
+**[00:37:35]** **Abe†:** And the next day they arranged with him, he should take me to another town.
+
+**[00:37:41]** **Frances (Fran)†:** Oh, the soldiers gave up?
+
+**[00:37:43]** **Abe†:** No, no soldiers. All the civilian people took me.
+
+**[00:37:47]** **Abe†:** Because they gave them the passport.
+
+**[00:37:50]** **Abe†:** And they knew I'm not going to run away without a passport.
+
+**[00:37:55]** What could I do with her?
+
+**[00:37:58]** **Abe†:** And in Tomaszów, they didn’t know where I disappeared.
+
+**[00:38:05]** **[Check audio]** **Abe†:** So Mama came there, my older brother, and Calman.
+
+**[00:38:09]** **Abe†:** And they were waiting and waiting.
+
+**[00:38:13]** **[Check audio]** **Abe†:** [They thought for sure?] that they killed me.
+
+**[00:38:18]** **Abe†:** And Friday, four o'clock, I came in in the town.
+
+**[00:38:22]** **Abe†:** I was never there.
+
+**[00:38:25]** **Abe†:** And I didn't know nobody.
+
+**[00:38:29]** **Abe†:** I walked around and looked.
+
+**[00:38:32]** **[Check audio]** A boy, a Polish boy, wanted to take me. [by a shortcut?] right in the draft board.
+
+**[00:38:38]** So I told him, maybe I have here somebody. You hungry, I'm hungry.
+
+**[00:38:44]** You'll eat. Then they'll go. And they listened to me. They agreed.
+
+**[00:38:49]** And I walk around
+
+**[00:38:52]** **Abe†:** I walked around a tin smith’s stall. Took a look. A Tomaszów boy was standing there.
+
+**[00:38:58]** **[Check audio]** **Abe†:** He says, “I just saw Telca and your brother,” and he showed me where she stays. [Overlapping speech unclear.]
+
+**[00:39:11]** **Abe†:** And they made me something to eat. They gave that Polish boy to eat.
+
+**[00:39:16]** **Abe†:** and they arranged for that it was a lawyer.
+
+**[00:39:21]** **Abe†:** He was a Polish citizen. He was a cripple.
+
+**[00:39:25]** **Abe†:** They gave him ten dollars,
+
+**[00:39:28]** **Abe†:** but I had to pay for the visa,
+
+**[00:39:30]** **Abe†:** I had to give in.
+
+**[00:39:33]** **Abe†:** So he...
+
+**[00:39:35]** **Abe†:** Then they brought me up in the draft board.
+
+**[00:39:39]** **Abe†:** That lawyer arranged for a lieutenant.
+
+**[00:39:44]** **Abe†:** He should take over the passport and let me go and then give me the passport to the lawyer.
+
+**[00:39:50]** **Abe†:** When they brought me in, that lieutenant went home already. There was another lieutenant.
+
+**[00:40:00]** **Abe†:** He asked me, how old are you?
+
+**[00:40:01]** **[Check audio]** **Abe†:** I told him [unclear].
+
+**[00:40:02]** **Abe†:** Eighteen years.
+
+**[00:40:04]** **Abe†:** So he asked the soldiers, the riders, how old does that boy look?
+
+**[00:40:09]** **Abe†:** One says fifteen, one says seventeen.
+
+**[00:40:12]** **Abe†:** Says you go home.
+
+**[00:40:13]** **Abe†:** Go come Monday.
+
+**[00:40:14]** **Abe†:** Because Friday night.
+
+**[00:40:17]** **Abe†:** And I came back.
+
+**[00:40:18]** **Abe†:** The lawyer says, he is going to get the passport.
+
+**[00:40:24]** **Abe†:** Even if it’s going to cost him his money.
+
+**[00:40:28]** **Abe†:** And then at night, in the place where we were staying by Mama’s cousin,
+
+**[00:40:35]** **[Check audio]** **Abe†:** So tailor comes in there, says, people, give me $5 and I'll get you the passport.
+
+**[00:40:42]** **[Check audio]** **Abe†:** That lieutenant knew that tailor.
+
+**[00:40:44]** **Abe†:** And he came to him and he said, I have a passport that's supposed to go to America.
+
+**[00:40:49]** **Abe†:** Bring me $5.
+
+**[00:40:51]** **Abe†:** But everybody in the town called him a liar.
+
+**[00:40:54]** **Abe†:** Not a reliable man. So they said they don’t need it. And that lawyer, they didn’t know who had the passport. But he said, “Don’t worry, even if it’s…”
+
+**[00:41:11]** **[Check audio]** **Abe†:** “…going to cost me my own twenty dollars, I’ll get it.” [Unclear words about Friday/the following week.]
+
+**[00:41:22]** **Rita†:** Did he have to pay $20?
+
+**[00:41:25]** **Abe†:** I don't know. He didn't.
+
+**[00:41:27]** **Frances (Fran)†:** Actually, you had a lot of nice people that helped you.
+
+**[00:41:29]** It sounds like he asked a lot of people to help him.
+
+**[00:41:32]** He didn't ask for them.
+
+**[00:41:34]** Yeah, a lot of people. Nice people.
+
+**[00:41:35]** How much did $20 come to this one?
+
+**[00:41:37]** I changed $20 to get a half a million marks.
+
+
+### 00:41:39 — Money, inflation, and the visa
+
+**[00:41:46]** **[Check audio]** Until I came from Russia, the half a million marks were worth nothing.
+
+**[00:41:53]** **[Check audio]** Well, that was inflation they had in Europe after World War II.
+
+**[00:41:59]** The money didn’t mean nothing.
+
+**[00:42:00]** **[Check audio]** [Unclear joke comparing the currency with toilet paper.]
+
+**[00:42:07]** How much did Victor get paid?
+
+**[00:42:10]** How much did Victor get paid?
+
+**[00:42:15]** But I meant the amount that you paid.
+
+**[00:42:17]** No, but I paid for it.
+
+**[00:42:20]** I made $1.60 a week.
+
+**[00:42:25]** That's here.
+
+**[00:42:26]** But in Poland, what was the $20 worth?
+
+**[00:42:29]** The money that you...
+
+**[00:42:30]** It was a lot.
+
+**[00:42:32]** It was a lot.
+
+**[00:42:34]** **[Check audio]** They used to call it [noodles?].
+
+**[00:42:37]** Noodles?
+
+**[00:42:38]** Noodles.
+
+**[00:42:39]** Because it was...
+
+**[00:42:40]** They were not allowed to talk about dollars.
+
+**[00:42:42]** Oh, I see. It was a code word. It was a code word.
+
+**[00:42:46]** Same word. Dough. Dough, yeah.
+
+**[00:42:49]** Oh, that's why they called it noodles. Yeah, that's right.
+
+**[00:42:52]** Pasta.
+
+**[00:42:53]** Pasta.
+
+**[00:42:54]** I don't get that dough word.
+
+**[00:42:57]** Any doughs? Any noodles?
+
+**[00:42:58]** Dough, dough, dough.
+
+**[00:42:59]** So noodles was the code word.
+
+**[00:43:02]** On the table, black market.
+
+**[00:43:04]** So they could have heard the word dough, they called it noodles.
+
+**[00:43:07]** So I paid it. It was $10 for a visa. I had to give away the lawyer. So I didn't have no money. So I went to Warsaw. In Warsaw we had a cousin. I came there. I went to the HIAS.
+
+**[00:43:31]** The HIAS was a big organization in America when people came over.
+
+**[00:43:39]** They're still here, the HIAS.
+
+**[00:43:44]** They're still here.
+
+**[00:43:46]** But they're not assigned.
+
+**[00:43:47]** **[Check audio]** **Abe†:** I sent a telegram to Victor. [Unclear reply about the money Victor sent.]
+
+**[00:43:52]** Is that how you got the visa?
+
+**[00:43:55]** I had the visa.
+
+**[00:43:57]** **Abe†:** They sent me money for the visa, but I was too late for the consulate.
+
+**[00:44:09]** **Abe†:** So I changed that time $20 and I got a half a million mark.
+
+**[00:44:14]** **Abe†:** I went back to Zamość. It was before the holidays.
+
+**[00:44:21]** **[Check audio]** **Abe†:** And after the holidays, I went [and got my visa].
+
+
+### 00:44:28 — A birth, immigration papers, and school
+
+**[00:44:28]** **Frances (Fran)†:** That's when I was conceived, about that time.
+
+**[00:44:31]** **Frances (Fran)†:** I wasn't born until he came to the United States.
+
+**[00:44:36]** **[Check audio]** **Abe†:** She was born when I was in Belgium, in Antwerp.
+
+**[00:44:40]** **[Check audio]** **Abe†:** I received a letter.
+
+**[00:44:41]** **[Check audio]** **Abe†:** She was born.
+
+**[00:44:43]** **[Check audio]** Did your mother know that he was leaving the United States?
+
+**[00:44:45]** That's why she married him.
+
+**[00:44:48]** **[Check audio]** [Unclear words about being on the way to America.]
+
+**[00:44:50]** No, but you know how he got put in jail and arrested?
+
+**[00:44:53]** She had any idea that he was going through all this and had plans to really...
+
+**[00:44:57]** No.
+
+**[00:44:58]** She didn't know until he called up from America?
+
+**[00:45:01]** No, she knew that he was going to go to the United States,
+
+**[00:45:06]** but she didn't know what happened in between with the soldiers.
+
+**[00:45:12]** What did she find out?
+
+**[00:45:12]** She went to Warsaw.
+
+**[00:45:14]** Then she found out she went to Warsaw.
+
+**[00:45:18]** **[Check audio]** So you and Ari left Grandma thinking that you weren't going to see her until America.
+
+**[00:45:23]** She didn't know you were going to jail.
+
+**[00:45:24]** **[Check audio]** I wouldn’t be able to see her until [unclear].
+
+**[00:45:27]** **[Check audio]** Yeah.
+
+**[00:45:27]** **[Check audio]** Fran, you were the man.
+
+**[00:45:30]** **[Check audio]** Yeah.
+
+**[00:45:31]** **[Check audio]** What did the problems take you on?
+
+**[00:45:34]** **Frances (Fran)†:** Well, in Connecticut, they wanted me to get my own papers.
+
+**[00:45:38]** **Frances (Fran)†:** So that's when my problems started,
+
+**[00:45:40]** **Frances (Fran)†:** because I don't know whether they weren't married legally or what.
+
+**[00:45:45]** **Frances (Fran)†:** All the stories were different.
+
+**[00:45:48]** **Frances (Fran)†:** When I had to get my own papers, the immigration, you know, investigated.
+
+**[00:45:54]** **Frances (Fran)†:** And they said, they've heard of crazy stories. Most immigrants had crazy stories.
+
+**[00:45:59]** **Frances (Fran)†:** But this was the craziest. My mother's name was different.
+
+**[00:46:03]** **Frances (Fran)†:** They couldn't find any record of a marriage.
+
+**[00:46:07]** When I sent the papers, I sent you the age and mom and everything.
+
+**[00:46:18]** **Frances (Fran)†:** was mixed up but because he was an experienced man and knew that these things happened with
+
+**[00:46:24]** **[Check audio]** **Frances (Fran)†:** the immigrants, he allowed, you know, he let it go through. But he says I never [saw] such
+
+**[00:46:30]** **Frances (Fran)†:** a mess.
+
+**[00:46:31]** What about the rest of the kids?
+
+**[00:46:34]** They were all born in the United States. That's why there's a big age difference.
+
+**[00:46:38]** Yeah, and then me.
+
+**[00:46:39]** **[Check audio]** Did she look like an American?
+
+**[00:46:40]** **[Check audio]** Did she look like an American?
+
+**[00:46:42]** **[Check audio]** Do you have any changes?
+
+**[00:46:43]** **[Check audio]** No changes.
+
+**[00:46:46]** **[Check audio]** How old were you when you came to America?
+
+**[00:46:48]** **Frances (Fran)†:** I was six years old.
+
+**[00:46:50]** **Frances (Fran)†:** A week before I had to go to school.
+
+**[00:46:54]** Six years.
+
+**[00:46:56]** **Frances (Fran)†:** And I didn't have bilingual classes in those days either, boys.
+
+**[00:46:59]** **Frances (Fran)†:** And the first teacher I had made fun of me.
+
+**[00:47:06]** **Frances (Fran)†:** She hit me over the head with a ruler.
+
+**[00:47:09]** Remember?
+
+**[00:47:09]** **Frances (Fran)†:** remember? And I started to cry, you know, and my nose was running like it is now, and
+
+**[00:47:14]** **Frances (Fran)†:** I didn't know from handkerchiefs. I didn't have a handkerchief. So she made fun of me
+
+**[00:47:18]** **Frances (Fran)†:** for that, too. But then there was a, I came home crying, and one of, it wasn't, it wasn't
+
+**[00:47:32]** **Frances (Fran)†:** Annie. Not cousin, but she was related.
+
+**[00:47:36]** **[Check audio]** † [Discussion of the relationship to Annie; exact words unclear.]
+
+> **Editorial note:** Nancy identifies Annie as Sadie’s sister; Sadie was Victor’s sister-in-law and later Carol’s step-grandmother.
+
+**[00:47:41]** **Frances (Fran)†:** She was very involved in the parents association, that kind of thing.
+
+> **Editorial note:** Nancy identifies Annie as Sadie’s sister; Sadie was Victor’s sister-in-law and later Carol’s step-grandmother.
+
+**[00:47:48]** **Frances (Fran)†:** She went to school and complained.
+
+**[00:47:50]** **Frances (Fran)†:** The next day I had a wonderful young Italian teacher who took me under her wing.
+
+**[00:47:57]** **Frances (Fran)†:** Never saw the other teacher again. I don't know what ever happened to him.
+
+**[00:48:00]** I heard she was fired.
+
+**[00:48:01]** **Harry†:** No, I heard she was fired.
+
+**[00:48:03]** **Harry†:** Because I heard the story from Sadie, who was Anne's sister.
+
+**[00:48:06]** Oh, really?
+
+**[00:48:06]** She was fired.
+
+**[00:48:09]** The first teacher made fun of me, hit me over the head with the ruler.
+
+**[00:48:16]** **[Check audio]** I had her hand on my head.
+
+**[00:48:18]** **[Check audio]** And then made fun of me because my nose was running.
+
+**[00:48:22]** **[Check audio]** I don't know if anyone at school wanted to teach you that.
+
+
+### 00:48:25 — Homes, childhood, and Pennsylvania
+
+**[00:48:26]** **[Check audio]** Yes, he did say he remembered.
+
+**[00:48:27]** **[Check audio]** You know, Mama went down [unclear].
+
+**[00:48:30]** She went down to buy something and she forgot the address.
+
+**[00:48:34]** She walked around and she almost went crazy.
+
+**[00:48:38]** **Frances (Fran)†:** That used to happen to me.
+
+**[00:48:39]** **Frances (Fran)†:** I'd go to school and you'd move in between.
+
+**[00:48:45]** **Frances (Fran)†:** I once couldn't find a house.
+
+**[00:48:50]** Not you.
+
+**[00:48:51]** But it happened to me too.
+
+**[00:48:53]** Yeah, I bet it happened.
+
+**[00:48:54]** She went down to buy and she couldn't find a place to go back.
+
+**[00:48:58]** How long had she been here?
+
+**[00:48:59]** How long had she been here when she couldn't go back?
+
+**[00:49:04]** **[Check audio]** She wasn’t [here long?].
+
+**[00:49:06]** **Abe†:** I moved in a house, a new house, like a basement.
+
+**[00:49:12]** **Abe†:** I had to walk down a couple of stairs.
+
+**[00:49:14]** **Abe†:** Yeah, I remember that place.
+
+**[00:49:15]** **Abe†:** A new house, a beautiful place at that time.
+
+**[00:49:19]** **Abe†:** $45 a month rent. I bought new furniture and everything.
+
+**[00:49:24]** **Abe†:** And for four months the landlord didn't come for rent.
+
+**[00:49:32]** **Abe†:** So I figure four months is already a nice couple of dollars.
+
+**[00:49:41]** **Abe†:** And in the front of the house was a school.
+
+**[00:49:47]** **[Check audio]** **Abe†:** [Unclear words about children at the school.]
+
+**[00:49:48]** Too noisy?
+
+**[00:49:50]** Noisy.
+
+**[00:49:52]** So I went and found an apartment for $38 a month.
+
+**[00:50:00]** **Abe†:** A month concession—two months: a month you move in and a month you move out.
+
+**[00:50:05]** **Abe†:** So I hired an expressman.
+
+**[00:50:08]** **Abe†:** He brought me barrels and I packed them.
+
+**[00:50:10]** **Frances (Fran)†:** He was an expert packer.
+
+**[00:50:12]** **Abe†:** While I had already packed them,
+
+**[00:50:14]** **Frances (Fran)†:** In five minutes he had that place packed?
+
+**[00:50:18]** **Abe†:** The landlord came in to them.
+
+**[00:50:20]** **Abe†:** I told him I moved.
+
+**[00:50:24]** **Abe†:** He saw the barrels packed.
+
+**[00:50:26]** **Abe†:** I told him I moved.
+
+**[00:50:27]** **Abe†:** He didn't say a word.
+
+**[00:50:30]** **[Check audio]** I wanted to see you, you know I'm not going to pay you.
+
+**[00:50:33]** **[Check audio]** You know what's wrong.
+
+**[00:50:33]** **[Check audio]** Oh, it's his fault.
+
+**[00:50:34]** **[Check audio]** He didn't get me to come.
+
+**[00:50:35]** **[Check audio]** How did that happen all the time?
+
+**[00:50:37]** **[Check audio]** They get concessions.
+
+**[00:50:39]** **[Check audio]** See, the house, when I was the one...
+
+**[00:50:41]** **Frances (Fran)†:** In order for the landlord to encourage you to rent their apartment,
+
+**[00:50:45]** **Frances (Fran)†:** because there were lots of apartments,
+
+**[00:50:47]** **Frances (Fran)†:** they would give you the first month free and the last month free.
+
+**[00:50:51]** The last month.
+
+**[00:50:53]** **Frances (Fran)†:** And my mother took advantage of that.
+
+**[00:50:56]** **Frances (Fran)†:** And then I left. She moved almost every month for a while there.
+
+**[00:51:00]** Six months.
+
+**[00:51:01]** Every year, not every month.
+
+**[00:51:03]** Six months.
+
+**[00:51:04]** Every year.
+
+**[00:51:05]** **[Check audio]** She moved at the concession. We moved away.
+
+**[00:51:08]** **[Check audio]** But I'm sure it was a concession.
+
+**[00:51:09]** **[Check audio]** If they were getting concessions afterwards, then it's a lot of money.
+
+**[00:51:12]** **[Check audio]** Six months, just to be sure.
+
+**[00:51:13]** So one...
+
+**[00:51:14]** Four months, you get four months free a year.
+
+**[00:51:16]** **Frances (Fran)†:** One time, I was watching, I was watching on Clinton Avenue we lived.
+
+**[00:51:21]** **Frances (Fran)†:** I was watching Rita and the old house.
+
+**[00:51:31]** **Frances (Fran)†:** In the meantime, the sheriff came and evicted us.
+
+**[00:51:36]** **Frances (Fran)†:** Yes, Mama was getting another apartment, and we were out in the street.
+
+**[00:51:40]** **Frances (Fran)†:** I was crying with her.
+
+**[00:51:41]** **Frances (Fran)†:** I didn't know what to do.
+
+**[00:51:42]** No, I remember where he lived.
+
+**[00:51:44]** Because I remember living in two places.
+
+**[00:51:46]** Nobody told us.
+
+**[00:51:48]** **Frances (Fran)†:** Oh yes, my apartment. Please, the furniture was outside.
+
+**[00:51:54]** **Frances (Fran)†:** You don't remember that. The furniture was outside, yes.
+
+**[00:51:58]** By the time, Mama had another apartment already. We moved.
+
+**[00:52:02]** She didn't expect to have one.
+
+**[00:52:04]** He didn't know. He was at work.
+
+**[00:52:06]** **Frances (Fran)†:** By the time, we were out on the sidewalk, and I was babysitting her, and she used to cry all the time.
+
+**[00:52:13]** **Frances (Fran)†:** Wait, you're out of the sidewalk?
+
+**[00:52:16]** **Frances (Fran)†:** He was working. My mother got another apartment. I was watching her. In the meantime, the sheriff came and evicted us.
+
+**[00:52:25]** Because she didn't pay the rent, I guess. She didn't pay the rent, yeah. That was where that Italian woman used to live next door. Remember?
+
+**[00:52:35]** That sounds so familiar. I must have been around then. No, you were not.
+
+**[00:52:39]** I must have heard the story.
+
+**[00:52:41]** You must have heard the story.
+
+**[00:52:43]** **Frances (Fran)†:** She was such a beautiful young lady, and the parents would not let her marry.
+
+**[00:52:48]** **Frances (Fran)†:** She never married.
+
+**[00:52:49]** **Frances (Fran)†:** So she was comforting me at that time.
+
+**[00:52:53]** I don't remember.
+
+**[00:52:54]** Well, you were working, but I remember.
+
+**[00:52:57]** **[Check audio]** But Jim, you came home from work and you were settled in the building.
+
+**[00:53:00]** How do you remember those numbers? I remember the building.
+
+**[00:53:03]** I came home from work and we were already in the new apartment.
+
+**[00:53:05]** **[Check audio]** **Abe†:** But, [Clinton Avenue?], we lived in three houses.
+
+**[00:53:10]** **Abe†:** Sometimes I had dreams.
+
+**[00:53:12]** **Abe†:** I didn't know where to go.
+
+**[00:53:17]** **Abe†:** Sometimes I had a dream, I didn't know where to go home.
+
+**[00:53:24]** **Frances (Fran)†:** I come home from school and I forgot.
+
+**[00:53:29]** **[Check audio]** **Frances (Fran)†:** My mother used to say I had a “cotton cup” [phonetic reading; expression uncertain].
+
+**[00:53:31]** **Frances (Fran)†:** I couldn't remember a lot of things. I still don't.
+
+**[00:53:35]** **Frances (Fran)†:** And I forgot that we were moving.
+
+**[00:53:38]** **Frances (Fran)†:** And I went home to the old house and it wasn't there.
+
+**[00:53:43]** **Frances (Fran)†:** I don't remember how they found me.
+
+**[00:53:47]** **Harry†:** I was lost also for a while once.
+
+**[00:53:49]** Oh yes, you were, yes.
+
+**[00:53:51]** What happened to her?
+
+**[00:53:51]** I remember, yeah, went to the market or something.
+
+**[00:53:55]** **Harry†:** Like they followed the wrong woman out of the store or something.
+
+**[00:53:58]** She got lost.
+
+**[00:54:00]** **Abe†:** She went in the market to buy something and he walked out.
+
+**[00:54:04]** **Abe†:** He walked out, yeah.
+
+**[00:54:05]** **Abe†:** He walked a nice couple blocks and everybody was running around and everybody was looking for him.
+
+**[00:54:13]** **Abe†:** And he was saying a man was fixing a car and he was waiting to watch it.
+
+**[00:54:17]** **Abe†:** That's how you got the motors, huh? That's how you watched the motors.
+
+**[00:54:21]** How old was Harry? Two and a half?
+
+**[00:54:22]** About four years.
+
+**[00:54:24]** **[Check audio]** **Sylvia†:** Do you remember the time you almost [drowned me?]?
+
+**[00:54:27]** You were in the pool?
+
+**[00:54:29]** Yeah.
+
+**[00:54:36]** **Sylvia†:** I was a toddler.
+
+**[00:54:37]** **Sylvia†:** I mean, it was somewhere between one and two years old, I think.
+
+**[00:54:43]** **[Check audio]** [I was panicking?] Water [unclear].
+
+**[00:54:45]** **[Check audio]** [Over my head?]
+
+**[00:54:46]** Maybe that's why.
+
+**[00:54:47]** I can't remember.
+
+**[00:54:48]** In Pennsylvania.
+
+**[00:54:50]** Pennsylvania.
+
+**[00:54:53]** Well, I had all these fears.
+
+**[00:54:56]** I'm like that.
+
+**[00:54:57]** Well, she communicated.
+
+**[00:54:59]** that fear to me and I did my best to pass it on to the people.
+
+**[00:55:02]** We believe in sharing truth.
+
+**[00:55:04]** **Frances (Fran)†:** But I almost drowned in Pennsylvania.
+
+**[00:55:08]** I watched you almost drown.
+
+**[00:55:10]** **Frances (Fran)†:** And a man came and saved me.
+
+**[00:55:14]** Where were you?
+
+**[00:55:15]** My uncle Victor used to live in Pennsylvania,
+
+**[00:55:19]** **[Check audio]** [Town name unclear], Pennsylvania.
+
+**[00:55:20]** She didn't know how to swim.
+
+**[00:55:21]** How old was she?
+
+**[00:55:24]** **Frances (Fran)†:** I was 12.
+
+**[00:55:26]** And you did that without knowing how to swim?
+
+**[00:55:29]** **Frances (Fran)†:** I was watching her there.
+
+**[00:55:30]** **Frances (Fran)†:** It was a little swimming hole, and it was not deep.
+
+**[00:55:35]** **Frances (Fran)†:** But there must have been a...
+
+**[00:55:36]** **Frances (Fran)†:** And we used to have this swing on a tree.
+
+**[00:55:39]** **Frances (Fran)†:** It was very, very...
+
+**[00:55:41]** **Frances (Fran)†:** It wasn't very deep.
+
+**[00:55:42]** **Frances (Fran)†:** But there must have been a storm and a hole.
+
+**[00:55:46]** Oh, it got deep.
+
+**[00:55:47]** It got deep.
+
+**[00:55:48]** **Frances (Fran)†:** And somehow or other, I either hurt my hand or something.
+
+**[00:55:51]** **Frances (Fran)†:** I let go of the rope, and I went down.
+
+**[00:55:54]** **Frances (Fran)†:** And up, down, and up.
+
+**[00:55:57]** **Frances (Fran)†:** up and a man with his clothes happened to be there and he jumped in and saved me.
+
+**[00:56:05]** **Frances (Fran)†:** And then I kept telling them, don't tell mama, don't tell mama.
+
+**[00:56:08]** **Frances (Fran)†:** And I came home and she yelled at me.
+
+**[00:56:11]** **[Check audio]** **Frances (Fran)†:** You know, you're crossing the street, how can you cross the street?
+
+**[00:56:18]** But that was a lot of fun.
+
+**[00:56:20]** **[Check audio]** How come Uncle Victor, I remember, down at these white chickens.
+
+**[00:56:25]** **[Check audio]** You were a little older than the chickens. We loved the chickens.
+
+**[00:56:28]** So, what was Uncle Victor doing with a chicken farm in Pennsylvania?
+
+**[00:56:35]** He didn't have a chicken farm.
+
+**[00:56:36]** So what was he doing? What were the chickens?
+
+**[00:56:38]** There was a factory.
+
+**[00:56:41]** Oh, I see.
+
+**[00:56:42]** No, Uncle Victor kept chickens. He did.
+
+**[00:56:45]** A few. It wasn't a lot of chickens.
+
+**[00:56:52]** **[Check audio]** Oh, yeah, that's where my mama used to get eggs.
+
+**[00:56:56]** **[Check audio]** [Unclear question about eggs.]
+
+**[00:56:59]** **[Check audio]** You know, they're not that much for the eggs.
+
+**[00:57:02]** **[Check audio]** We have big morning.
+
+**[00:57:05]** **[Check audio]** Fresh eggs.
+
+**[00:57:09]** **[Check audio]** And there was one time on...
+
+**[00:57:20]** **Frances (Fran)†:** I was grown up already, fairly grown up.
+
+**[00:57:23]** **Frances (Fran)†:** I was sleeping with you and I got home a little later and everybody was sleeping and they
+
+**[00:57:29]** **Frances (Fran)†:** didn't hear me knocking on the door.
+
+**[00:57:34]** **Frances (Fran)†:** Immediately I had a vision that everybody was dead there in the apartment.
+
+**[00:57:39]** **Frances (Fran)†:** I was knocking on the door, so a neighbor of mine let me go around by the fire escape.
+
+**[00:57:46]** **Frances (Fran)†:** And then I walked, there was one, must have been close to 16, because I had my sweet 16 party there.
+
+**[00:57:53]** **Frances (Fran)†:** The only party I ever had, yeah.
+
+**[00:57:56]** So you weren't six. Why did you get there all dead?
+
+**[00:58:00]** **Frances (Fran)†:** Because my mother was a very light sleeper. Never happened that they didn't hear me.
+
+**[00:58:06]** **Frances (Fran)†:** I had this vision that they were all dead there.
+
+**[00:58:09]** **Frances (Fran)†:** I said, my whole family's dead.
+
+
+### 00:58:12 — The Tabak surname
+
+**[00:58:12]** Hey, Pap, let's go back a little further.
+
+**[00:58:14]** Where did the name Tabak come from?
+
+**[00:58:16]** How did you know?
+
+**[00:58:17]** Remember, how did the name Tabak come from?
+
+**[00:58:19]** **[Check audio]** Didn't you tell me once about somebody who was [snuff?]?
+
+**[00:58:21]** **Abe†:** Years ago, Jewish people didn't have second names.
+
+**[00:58:26]** Yeah, I know that.
+
+**[00:58:27]** **Abe†:** So when they start to register second names,
+
+**[00:58:31]** **Abe†:** A man came in if he was a goldsmith, they named him goldsmith.
+
+**[00:58:40]** **Abe†:** Whatever he used to do, they would name him.
+
+**[00:58:43]** **[Check audio]** If somebody sold [word/name unclear], they named him [unclear].
+
+**[00:58:49]** **[Check audio]** [Unclear name or word?]
+
+**[00:58:49]** He was a tailor? He was a tailor?
+
+**[00:58:52]** He used to be a tailor.
+
+**[00:58:53]** **Abe†:** Then my great-grandfather came in.
+
+**[00:58:57]** **[Check audio]** **Abe†:** He was [unclear phrase involving tobacco/snuff], so they named him Tabak.
+
+**[00:59:01]** Is it a great-grandfather?
+
+**[00:59:03]** **Abe†:** Probably a great-grandfather.
+
+**[00:59:05]** **Harry†:** I once looked up in a name of Jewish names
+
+**[00:59:08]** **Harry†:** and discovered a rabbi, T-A-B-A-K, in Hungary in the early 19th century.
+
+**[00:59:19]** **Sylvia†:** That's no relative.
+
+**[00:59:20]** **Sylvia†:** I'm sure it's no relative.
+
+**[00:59:20]** **Sylvia†:** I don't think we have rabbis in the family.
+
+**[00:59:23]** **Harry†:** But I suspect the name is older than Pop thinks it is.
+
+**[00:59:27]** **Frances (Fran)†:** It probably is because lately I've met a lot of tabaks.
+
+**[00:59:31]** See, my father's brothers, they disappeared.
+
+**[00:59:36]** **[Check audio]** You know, Europe at that time was no riding and everything.
+
+**[00:59:39]** **[Check audio]** So even a hundred miles in a different star, nobody knew.
+
+**[00:59:45]** **[Check audio]** Really, where they were.
+
+**[00:59:46]** **[Check audio]** And it could be all the [Tabaks?] that I'm coming across now.
+
+**[00:59:50]** **[Check audio]** My brother was in Russia. They found the children.
+
+**[00:59:54]** **[Check audio]** The children.
+
+**[00:59:56]** **[Check audio]** Yeah, they found...
+
+**[00:59:57]** **[Check audio]** Still with that one.
+
+**[01:00:00]** **[Check audio]** Because it happened.
+
+**[01:00:03]** **[Check audio]** And one came in, a brother and a sister, Kazamish,
+
+**[01:00:10]** **[Check audio]** with my brother's brother's children.
+
+**[01:00:15]** **[Check audio]** So that's where they went. They went into Russia.
+
+**[01:00:19]** **[Check audio]** They escaped in Russia. They used to live in Helen, their estate.
+
+
+### 01:00:25 — More family memories
+
+**[01:00:28]** **Frances (Fran)†:** Do you remember Rita with her eating problems?
+
+**[01:00:37]** **[Check audio]** It wasn't that they had these big, big, big problems.
+
+**[01:00:41]** That was me, Pop.
+
+**[01:00:43]** No, that was me.
+
+**[01:00:44]** I remember that one.
+
+**[01:00:45]** No, we did it more than once.
+
+**[01:00:48]** I remember the kitchen in the back.
+
+**[01:00:49]** You were there.
+
+**[01:00:51]** **Frances (Fran)†:** I used to spill the milk down the sink.
+
+**[01:00:57]** **[Check audio]** Mike knows.
+
+**[01:00:58]** **[Check audio]** He lived in gardens.
+
+**[01:01:00]** **[Check audio]** He lived in gardens.
+
+**[01:01:01]** **[Check audio]** Yeah.
+
+**[01:01:02]** **[Check audio]** How old is Ned?
+
+**[01:01:05]** **[Check audio]** He must be about three years old.
+
+**[01:01:07]** Yeah.
+
+**[01:01:08]** So you weren't there.
+
+**[01:01:09]** It happened again.
+
+**[01:01:10]** It could have happened again.
+
+**[01:01:12]** It could have.
+
+**[01:01:15]** Oh my God.
+
+**[01:01:17]** **[Check audio]** He's dropping a piece.
+
+**[01:01:18]** **[Check audio]** He's just flying.
+
+**[01:01:19]** **[Check audio]** And he never did.
+
+**[01:01:22]** **[Check audio]** That's right.
+
+**[01:01:24]** Why'd he do that?
+
+**[01:01:28]** Why did you do that?
+
+**[01:01:30]** Well, maybe she didn't want to.
+
+**[01:01:31]** I don't remember, but I would have.
+
+**[01:01:33]** **[Check audio]** She probably felt [deprived?].
+
+**[01:01:37]** **[Check audio]** [Unclear question or joke.]
+
+**[01:01:41]** Maybe it's just a genetic trait.
+
+**[01:01:43]** It's not just a genetic trait.
+
+**[01:01:47]** **[Check audio]** I take apples and I take gum.
+
+**[01:01:52]** **[Check audio]** Don't we have an illustrious trait?
+
+**[01:01:54]** **[Check audio]** A what?
+
+**[01:01:55]** **[Check audio]** [No reliable transcription for this interval; check the recording.]
+
+**[01:02:05]** **[Check audio]** I have Abe's phone number, but I don't know.
+
+**[01:02:08]** **[Check audio]** Carol and I sent away for this.
+
+**[01:02:10]** **[Check audio]** I have Abe Greenberg's phone number.
+
+**[01:02:12]** **[Check audio]** I went to America.
+
+**[01:02:14]** **[Check audio]** At that time she was about 39 years old.
+
+**[01:02:16]** **[Check audio]** I'm here.
+
+**[01:02:17]** **[Check audio]** Or are they 66?
+
+**[01:02:22]** **[Check audio]** She's about 100 already.
+
+**[01:02:25]** More than 100.
+
+**[01:02:26]** But we got the listing of all the Tabacs in the world.
+
+**[01:02:28]** She was very nice to me.
+
+**[01:02:30]** United States, Canada, and Australia.
+
+**[01:02:32]** They love me.
+
+**[01:02:32]** And there are so many there.
+
+**[01:02:35]** I couldn't possibly go back as far as Pop says.
+
+**[01:02:38]** **[Check audio]** The name had to have gone back [more generations; exact wording uncertain].
+
+**[01:02:45]** Oh, that's right, she must have been watching me when Harry was born.
+
+**[01:02:54]** No, no.
+
+**[01:02:54]** Who watched when Harry was born?
+
+**[01:02:57]** You were a big girl.
+
+**[01:02:58]** So I didn't need to be watched.
+
+**[01:02:59]** I remember she took care of me once and cut my hair.
+
+**[01:03:04]** **[Check audio]** When you were born.
+
+**[01:03:06]** **[Check audio]** Sylvia didn't remember.
+
+**[01:03:07]** **[Check audio]** She's like, why?
+
+**[01:03:08]** **[Check audio]** Now she didn't start to put the lights out.
+
+**[01:03:13]** **[Check audio]** And I'm figuring out.
+
+**[01:03:15]** **[Check audio]** She's very patient.
+
+**[01:03:17]** **[Check audio]** She's saying, Ted, say Ted.
+
+**[01:03:19]** I'm trying to figure out what am I going to do in this hospital?
+
+**[01:03:22]** Mama's there somewhere in this big hospital.
+
+**[01:03:24]** How am I going to find what room she's in?
+
+**[01:03:26]** Oh, God.
+
+**[01:03:28]** **[Check audio]** [Six years old?]
+
+**[01:03:34]** **Sylvia†:** I remember going out with him to buy the stuff for Harry when Harry was born.
+
+**[01:03:39]** Going to buy the crib.
+
+**[01:03:42]** I remember when he was growing up.
+
+**[01:03:43]** Smile again.
+
+**[01:03:44]** That was the first record. I thought you bought that.
+
+**[01:03:46]** I bought it for him.
+
+**[01:03:49]** **[Check audio]** **Frances (Fran)†:** I remember that [record player?].
+
+**[01:03:50]** **Frances (Fran)†:** I think you got the radio and the record player came with it or something.
+
+**[01:03:55]** **Frances (Fran)†:** And the record you brought me, I don't know what happened to that record.
+
+**[01:03:59]** **Frances (Fran)†:** Mama was so angry. Was she angry? Oh God, did she give him?
+
+**[01:04:05]** Spend money without her permission?
+
+**[01:04:08]** **[Check audio]** I think she should give it to him.
+
+**[01:04:10]** **[Check audio]** How old were you at night?
+
+**[01:04:12]** **[Check audio]** **Frances (Fran)†:** I think I was like 19.
+
+**[01:04:14]** **[Check audio]** I got married.
+
+**[01:04:17]** **Rita†:** And then I inherited the record player.
+
+**[01:04:21]** **Rita†:** The Strauss waltz. You bought the Strauss waltz.
+
+**[01:04:26]** **Rita†:** I threw it away, it was all broken.
+
+**[01:04:30]** **[Check audio]** Being with mom and I guess you, [seeing Gene off?] when he was going to the army.
+
+**[01:04:37]** I think it was, you know, it's a very distorted image because it's an infant's image.
+
+**[01:04:42]** Well, you're a little more than an infant, but...
+
+**[01:04:48]** I used to babysit you.
+
+**[01:04:51]** I babysit her.
+
+**[01:04:53]** I babysit her.
+
+**[01:04:54]** **[Check audio]** [No reliable transcription for this interval; check the recording.]
+
+**[01:05:10]** **[Check audio]** I was made to sit here when she had an awful reaction and almost died.
+
+**[01:05:18]** **[Check audio]** What's the smallpox?
+
+**[01:05:19]** **[Check audio]** Is it smallpox?
+
+**[01:05:20]** **[Check audio]** Did I accept the last?
+
+**[01:05:21]** **[Check audio]** Did Peri have that?
+
+**[01:05:22]** **[Check audio]** No.
+
+**[01:05:23]** **[Check audio]** No, she called me.
+
+**[01:05:25]** **[Check audio]** She called me.
+
+**[01:05:25]** **[Check audio]** **Bobbi†:** She said, [Harry?] had that.
+
+**[01:05:27]** Sort of a boy.
+
+**[01:05:34]** **Bobbi†:** No, it's not exactly a girl.
+
+**[01:05:36]** Right.
+
+**[01:05:37]** I didn't know what a sort is.
+
+**[01:05:39]** It's not exactly a girl.
+
+**[01:05:41]** Her father.
+
+**[01:05:44]** **[Check audio]** Because Grandma always wanted [boys?].
+
+**[01:05:47]** and she probably had Harry.
+
+**[01:05:49]** **Bobbi†:** And here I had, you know, girls, and Harry had a boy.
+
+**[01:05:56]** So she wanted to break the news, but she didn't want to hurt her feelings.
+
+**[01:05:59]** **Bobbi†:** She was sort of a girl, but not really.
+
+**[01:06:02]** **Bobbi†:** It was sort of not a girl, but it sounded like it was a...
+
+**[01:06:09]** **Bobbi†:** Something or other.
+
+**[01:06:11]** **Bobbi†:** And I really started getting scared, you know, what's woman can say to me?
+
+**[01:06:20]** What did you think of Gene when he was a little boy?
+
+**[01:06:23]** **Rita†:** Oh, Gene! What? I hated Gene.
+
+**[01:06:26]** Did you really?
+
+**[01:06:27]** **[Check audio]** **Rita†:** Oh, God, he was so mean. He [set fire to my hair].
+
+**[01:06:30]** **[Check audio]** **Rita†:** He [set fire to my hair].
+
+**[01:06:32]** How old was he?
+
+**[01:06:36]** **Rita†:** He was old enough to know better, around 16 or 17.
+
+**[01:06:40]** He was smoking.
+
+**[01:06:41]** With a cigarette?
+
+**[01:06:43]** **Rita†:** He was playing around with it. You know he's a tease. I was this little girl and he held it up to my hair just to threaten me and it actually caught.
+
+**[01:06:53]** **Rita†:** You know and I could hear the singe, you know, and it put it right out. But it wasn't exactly the sort of thing that endears one.
+
+**[01:07:02]** What did you think?
+
+**[01:07:05]** **[Check audio]** [Unclear words about first impressions.]
+
+**[01:07:08]** **[Check audio]** So does I. For many years.
+
+**[01:07:10]** **[Check audio]** Yeah. So does I.
+
+**[01:07:13]** **[Check audio]** That's why he had to be there.
+
+**[01:07:14]** **[Check audio]** I can hear it.
+
+**[01:07:15]** **[Check audio]** I can hear it.
+
+**[01:07:15]** **[Check audio]** I can hear it.
+
+**[01:07:16]** Was he a grump back then?
+
+**[01:07:17]** Oh, he was always a grump.
+
+**[01:07:19]** Oh, was he a grump?
+
+**[01:07:19]** Oh, was he a grump?
+
+**[01:07:20]** He's not a grump back then.
+
+**[01:07:21]** He's a prude.
+
+**[01:07:22]** **[Check audio]** Oh, he’s [mellowed?].
+
+**[01:07:24]** **[Check audio]** He’s [mellowed?].
+
+**[01:07:25]** He's big-time mellow.
+
+**[01:07:26]** This is his hope for you, too.
+
+**[01:07:27]** Yeah, just don't.
+
+**[01:07:29]** We already started.
+
+**[01:07:31]** I've got one.
+
+**[01:07:32]** I've just finished telling that one.
+
+**[01:07:34]** I've heard stories.
+
+**[01:07:35]** **[Check audio]** Gene's washed your hair.
+
+**[01:07:36]** **[Check audio]** How did the audience feel?
+
+**[01:07:37]** **[Check audio]** He was teasing me.
+
+**[01:07:39]** **[Check audio]** Isn't it a match?
+
+**[01:07:40]** **[Check audio]** You know, it was a sweet thing to do.
+
+**[01:07:43]** **[Check audio]** I heard he was torturing you.
+
+**[01:07:45]** **[Check audio]** He never could stand there.
+
+**[01:07:46]** **[Check audio]** He was mutual.
+
+**[01:07:49]** You know, I can see it now.
+
+**[01:07:52]** He used to get terrible treatment from his sister.
+
+**[01:07:55]** Oh, that's how you do it?
+
+**[01:07:57]** **Rita†:** But I was his poor, helpless six-year-old.
+
+**[01:07:59]** I know.
+
+**[01:07:59]** That's why he took the
+
+**[01:08:01]** The truth comes out. Where is she?
+
+**[01:08:03]** He's against women.
+
+**[01:08:06]** Not all of them. He's managed to save a few.
+
+**[01:08:08]** He had a few. He saved a few.
+
+**[01:08:10]** **[Check audio]** Yeah, I better go get dressed and play card games.
+
+**[01:08:12]** **[Check audio]** Go, go.
+
+**[01:08:13]** **[Check audio]** No, that's not good.
+
+**[01:08:14]** **[Check audio]** You look fun in the meeting, don't you?
+
+**[01:08:16]** **[Check audio]** He gets along very well with you.
+
+**[01:08:18]** **[Check audio]** Mom, but you're not going to get married?
+
+**[01:08:19]** **[Check audio]** He's never with a man.
+
+**[01:08:20]** He saves it for sister-in-laws and wives.
+
+**[01:08:24]** And sisters.
+
+**[01:08:25]** And sisters.
+
+**[01:08:27]** Hey, Pop, can you tell me more?
+
+**[01:08:30]** **Abe†:** When he was younger, he used to work in a—you know, they used to make whiskey.
+
+**[01:08:37]** **Abe†:** So for lunch, he used to take a quart of whiskey and a piece of bread.
+
+**[01:08:43]** **[Check audio]** And that was it for lunch.
+
+**[01:08:48]** **[Check audio]** My God.
+
+**[01:08:50]** **Family member†:** For lunch, he would take a quart of whiskey and bread?
+
+**[01:08:57]** Here it looks like we all have to get changed.
+
+**[01:09:02]** How long did he work at that job?
+
+**[01:09:04]** **Abe†:** I don't know how long.
+
+**[01:09:06]** **Abe†:** Then he was working in a mill.
+
+**[01:09:08]** He had to gain calories somewhere.
+
+**[01:09:13]** How would you go back to work after that?
+
+**[01:09:18]** I don't know.
+
+**[01:09:22]** **[Check audio]** I don't know.
+
+**[01:09:28]** **[Check audio]** Did you have a child or a grandchild?
+
+**[01:09:31]** **[Check audio]** One and a half.
+
+**[01:09:36]** **[Check audio]** So you must have been very close.
+
+**[01:09:42]** **[Check audio]** So what happened?
+
+**[01:09:44]** **[Check audio]** I'm trying.
+
+**[01:09:44]** **[Check audio]** [Unclear conversation; recognition repeated itself in this interval.]
+
+
+### 01:09:45 — Abe’s parents and his mother’s work
+
+**[01:10:00]** **[Check audio]** I don't know what he thought of me.
+
+**[01:10:01]** **[Check audio]** He told me,
+
+**[01:10:02]** **[Check audio]** he forced up to see me.
+
+**[01:10:06]** **[Check audio]** He called me to meet the
+
+**[01:10:07]** **[Check audio]** Towers and I was there
+
+**[01:10:10]** **[Check audio]** with that.
+
+**[01:10:12]** **[Check audio]** All our babies were babies.
+
+**[01:10:13]** **[Check audio]** He was like,
+
+**[01:10:14]** **[Check audio]** **Abe†:** he used to go away to
+
+**[01:10:17]** **[Check audio]** **Abe†:** Russia,
+
+**[01:10:19]** **[Check audio]** **Abe†:** the big town.
+
+**[01:10:23]** **[Check audio]** That time, I know
+
+**[01:10:25]** **[Check audio]** [Unclear words about becoming a beggar.]
+
+**[01:10:27]** **Abe†:** But nobody, he used to go away for a half a year.
+
+**[01:10:30]** A half a year he's gone?
+
+**[01:10:32]** **Abe†:** A half a year. He used to come back.
+
+**[01:10:36]** What's so funny?
+
+**[01:10:38]** **Abe†:** He was saying, the money starts to go, then Mama tells him, the time you should go again.
+
+**[01:10:45]** Oh, so she sent him away to go?
+
+**[01:10:47]** **Abe†:** She was the man, she was the boss.
+
+**[01:10:50]** She was the boss?
+
+**[01:10:51]** **Abe†:** She was the business lady. She used to have a pushcart. In the morning she used to go pick berries. She was such a fast picker. In no time she picked up a lot of berries. And she’d run home to take out her pushcart and go buy chickens. She used to sell chickens and eggs.
+
+**[01:11:19]** **Abe†:** In the summer, people get on vacation in our town with a resort.
+
+**[01:11:27]** **Abe†:** Rich people used to come and hire houses by the peasants.
+
+**[01:11:33]** **Abe†:** They just hired maids.
+
+**[01:11:37]** **Abe†:** And they used to...
+
+**[01:11:38]** **[Check audio]** Depends what you guys want to do, because you make a commitment.
+
+**[01:11:41]** **[Check audio]** The pine woods.
+
+**[01:11:44]** **Family member†:** The pine woods were healthy?
+
+**[01:11:46]** **[Check audio]** Pinewood, baby!
+
+**[01:11:50]** **Abe†:** Even if somebody had TB… It didn’t help them anyhow, but they went.
+
+**[01:11:58]** **[Check audio]** They thought you were helping.
+
+**[01:12:01]** **[Check audio]** They were going to want it.
+
+**[01:12:02]** So they would buy the berries from her?
+
+**[01:12:05]** Buy berries?
+
+**[01:12:06]** **Abe†:** She used to be the best cook.
+
+**[01:12:09]** **Abe†:** She used to cook for weddings and bar mitzvahs.
+
+**[01:12:14]** **Abe†:** Even peasants.
+
+**[01:12:15]** **[Check audio]** She was such a [Yiddish term unclear], you know.
+
+**[01:12:20]** **Abe†:** She used to bake cakes.
+
+**[01:12:24]** **Abe†:** The peasant made a wedding.
+
+**[01:12:27]** **[Check audio]** **Abe†:** [They wanted?] Mama to bake the cake.
+
+**[01:12:30]** **Abe†:** She used to make all the decorations and everything.
+
+**[01:12:35]** **Abe†:** She used to make ice cream.
+
+**[01:12:41]** **Abe†:** If she had time, she worked in a bakery.
+
+**[01:12:46]** She was...
+
+**[01:12:48]** Boy, she must have been very busy.
+
+**[01:12:51]** So I can see she'd have no time for anybody to just hang around and do nothing.
+
+**[01:12:55]** What did your father do when he was away?
+
+**[01:12:58]** He used to...
+
+**[01:12:59]** **Abe†:** In Europe, an old man, there was no social security, there was no pension.
+
+**[01:13:06]** **Abe†:** So he had to go out and beg if he was poor. But he didn’t in the town that knew him; he used to go away to Russia, far away.
+
+**[01:13:16]** **Abe†:** He used to go away for six months.
+
+**[01:13:19]** **Abe†:** And then for the holidays he came out there.
+
+**[01:13:23]** **Abe†:** He used to go with another friend.
+
+**[01:13:26]** **Abe†:** He had a friend, also a relative, to a marriage.
+
+**[01:13:32]** **Abe†:** He lost an arm.
+
+**[01:13:34]** **Abe†:** So he used to go. He used to travel with them.
+
+**[01:13:38]** **[Check audio]** **Abe†:** [A man called Bezron?] That man used to make a lot of money. He used to bring home a lot of the money.
+
+**[01:13:56]** **[Check audio]** [Unclear overlapping correction.]
+
+**[01:14:00]** **Abe†:** My father, Friday night he used to go to the shul. The rich people used to take him home for the holidays. There were other poor people; they picked my father because he was a nice-looking, clean man.
+
+**[01:14:25]** And every six months or so he would come home for Passover?
+
+**[01:14:28]** For Passover.
+
+**[01:14:29]** So he didn't give up.
+
+**[01:14:30]** He would come home.
+
+**[01:14:34]** So your mother really supported the family?
+
+**[01:14:38]** **Abe†:** She supported the family. When Victor got married, she went to the bank and she made a loan.
+
+**[01:14:47]** **[Check audio]** [The tailors?] came in
+
+**[01:14:49]** **[Check audio]** our house
+
+**[01:14:49]** **[Check audio]** [No reliable transcription for this interval; check the recording.]
+
+**[01:15:09]** How come she made it? I thought the wife's family made the wedding.
+
+**[01:15:13]** **Abe†:** They made the wedding. She made the clothing.
+
+**[01:15:16]** Oh, the clothing and everything for the wedding. That was what she made.
+
+**[01:15:23]** **[Check audio]** [Yiddish expression unclear.]
+
+**[01:15:27]** **Abe†:** She wasn’t educated, but she kept the house. She was a smart woman.
+
+**[01:15:34]** It's the whole world.
+
+**[01:15:36]** **Abe†:** In the summertime in our town,
+
+**[01:15:40]** **[Check audio]** The Polish people used to make [unclear reference to church celebrations or processions].
+
+**[01:15:47]** **[Check audio]** Used to bring [crosses?], flags, you know, and Jesus.
+
+**[01:15:52]** **Abe†:** And all Polish people used to come at that time.
+
+**[01:15:59]** **[Check audio]** Four times in the summer. Used to come the Cotorinas, you know, with the music, with the parrots, with the mice, to pick up the lucky number.
+
+**[01:16:14]** **[Check audio]** **Abe†:** So my mother made ice cream, lemonade, used to go out and sell for the [peasants?].
+
+**[01:16:28]** **[Check audio]** [Unclear words about people who came for vacation.]
+
+**[01:16:33]** **[Check audio]** They called them [word for summer visitors unclear].
+
+**[01:16:36]** **[Check audio]** **Abe†:** So she used to sell chicken, spring chicken, egg, cheese.
+
+**[01:16:42]** What did she do?
+
+**[01:16:42]** Go out to the peasants and buy it?
+
+**[01:16:44]** Yeah, the peasants used to come and I told you.
+
+**[01:16:46]** I bought it in the market.
+
+**[01:16:49]** She used to buy it.
+
+**[01:16:54]** **[Check audio]** She bought from the peasants and then she [resold them?].
+
+**[01:17:01]** That's the mythology in the family.
+
+
+### 01:17:05 — Closing conversation
+
+**[01:17:05]** She bought...
+
+**[01:17:07]** I'm sorry.
+
+**[01:17:08]** Yes.
+
+**[01:17:12]** **[Check audio]** We used to walk one time to another.
+
+**[01:17:16]** **[Check audio]** We couldn't catch up.
+
+**[01:17:17]** Where is it?
+
+**[01:17:18]** In the back room.
+
+**[01:17:20]** I think so.
+
+**[01:17:22]** Are you in room 380?
+
+**[01:17:23]** Yes.
+
+**[01:17:23]** Wow.
+
+**[01:17:26]** Rosie.
+
+**[01:17:27]** Judy's the one.
+
+**[01:17:28]** Rosie.
+
+**[01:17:28]** **[Check audio]** [Unclear joking side conversation.]
+
+**[01:17:30]** Rosie.
+
+**[01:17:31]** Fast, fast, fast.
+
+**[01:17:33]** Rosie.
+
+**[01:17:33]** Francis too.
+
+**[01:17:34]** You going to get ready to go eat now?
+
+**[01:17:36]** **Abe†:** I'm also very fast.
+
+**[01:17:38]** **Sylvia†:** Yeah, I know you are.
+
+**[01:17:39]** **Sylvia†:** Schnell, Schnell.
+
+**[01:17:40]** **Abe†:** I was working in a factory after I retired.
+
+**[01:17:43]** Yeah.
+
+**[01:17:45]** **Abe†:** I told them, part time.
+
+**[01:17:47]** **Abe†:** Part time.
+
+**[01:17:50]** **Abe†:** So they gave me $125 a week.
+
+> **Editorial note:** Selected reading: $125 a week. Nancy’s notes give $135, but repeated audio-recognition checks favor $125; this reading is provisional, not a human-verified amount.
+
+**[01:17:55]** **[Check audio]** **Abe†:** But I had to work eight hours. And I had three hours [meaning uncertain].
+
+**[01:18:07]** **[Check audio]** **Abe†:** I did my work and I went to go home early.
+
+**[01:18:13]** **[Check audio]** Why do you have to rush?
+
+
+# Editorial and historical annotations
+
+## About this consolidated edition
+
+This edition keeps the conversation in video order and uses Nancy’s close-listening notes to repair obvious recognition errors and identify speakers. It is an edited, machine-assisted transcript, not a certified verbatim record. Brief fillers may be consolidated; the original recording remains the source for exact wording, tone, and gestures. Timestamps refer to the supplied 1:18:15.934 video, not the camcorder clock. Timing within longer passages is approximate.
+
+A dagger (†) marks wording or a speaker identification informed by Nancy’s notes or the user’s subsequent listening review. A speaker label applies only to that passage, not the surrounding conversation. Unlabeled passages retain an unidentified or mixed speaker. “Check audio” flags remaining recognition problems; errors may also remain elsewhere. In particular, the restored Russian-doctor correction is positioned within the previously untranscribed interval around 00:05:48–00:05:59; its exact word timing is approximate.
+
+Three kinds of evidence are kept distinct: the 1988 conversation; Nancy’s listening, memories, and account of family research; and Harry’s 2020 email reproduced in her notes. Nancy also refers to Rita’s later audio interviews. Those tapes, the underlying family tree, passenger manifest, and civil records have not been supplied or independently inspected here. Details drawn from them are attributed through Nancy or Harry, rather than presented as new words spoken in 1988.
+
+The original draft is retained internally for provenance. The reader, annotated text, plain text, and subtitles distributed here all represent this one consolidated edition.
+
+## Family identifications
+
+**Abraham “Abe” Tabak.** Nancy’s research introduction gives March 6, 1903, Krasnobród, Poland, as his birth, and February 23, 1997, Far Rockaway, Queens, as his death, aged 93. These are family-research dates, not assertions that all were spoken in this recording.
+
+**Parents.** Moszko/Moishe Tabak (1841–1921) and Bajla Ruchia Lancer (1863–1918), according to Nancy’s introduction. Bajla Ruchia was Moishe’s third wife. Nancy reports that his first wife died childless, the two children of his second marriage did not reach adulthood, and the tree records a divorce from his second wife. The interview’s references to nine births and six brothers plus one sister are retained. Nancy describes Abe as the youngest of seven children, with five brothers and one sister; “six brothers” may count Abe among the six boys, but the total number of births is not established here.
+
+**Wife.** Tesse/Telca Rajs (February 14, 1903–August 28, 1976), as supplied by Nancy. In the emigration narrative, “Mama” can refer to Telca rather than Abe’s mother. Harry distinguishes Telca’s birthplace, Tomaszów Lubelski, from her family association with Komarów. References to Komarów as a hometown need not contradict a different birthplace.
+
+**Brothers and relatives.** Nancy identifies Yisroel as the second-oldest brother in the marriage and World War I account, and Chaim as the brother who worked as a tailor while a prisoner of war. Victor was already in America. Nancy identifies Yitta as Yisroel’s wife, Hansha as their daughter, Shossy as Chaim’s wife, and Yitzak as Chaim’s son. Yisroel is used in place of the machine’s “Saul” reading.
+
+**Speakers.** Nancy identifies Gene as opening the interview; Frances/Fran as recounting immigration at six, school, citizenship paperwork, and many childhood memories; and Sylvia, Rita, Harry, Judy, and Bobbi at specified points. Labels have been added where a particular passage can be matched to her attribution. Her notes place the gathering at the Pines during a family reunion. The video itself contains camcorder dates of July 2 and July 9, 1988 in sampled frames.
+
+## Family timeline
+
+1. **1841 and 1863:** Birth years of Moishe and Bajla Ruchia, respectively, in Nancy’s family-research introduction.
+2. **March 6, 1903:** Abe’s birth in Krasnobród, according to that introduction. Moishe was about 62, not 75. In July 1988 Abe would have been 85; the spoken “86 years ago” is retained as part of Gene’s introduction.
+3. **1913:** Victor’s arrival in America, as recalled in the video and transcribed by Nancy.
+4. **World War I:** Abe recalls trench work, antisemitic attacks, displacement, makeshift shelter, trade, and family illness. He remembers being 14–15. Those ages and the remembered sequence do not securely date every episode.
+5. **1918:** Bajla Ruchia’s death, per Nancy’s introduction. The spoken age of 56 is approximate relative to the supplied 1863–1918 years.
+6. **1921:** Moishe’s death, per Nancy’s introduction, at about 80 rather than the interview’s 91–92 or 96. The suggested birth year 1832 in the conversation is not adopted as family history.
+7. **Approximately 1921–1922:** Marriage, repeated passport/visa applications, and arrest during preparations to emigrate. The video places marriage during a delay and mentions a May 1922 consular summons. No exact marriage date is established here.
+8. **December 1922:** Abe’s departure for the United States, according to Harry’s email. Harry says Telca was pregnant when he left. The video says news of Frances’s birth reached Abe in Antwerp. The exact birth date and journey dates should not be derived solely from these recollections.
+9. **September 14, 1928:** Harry identifies a passenger-list entry for the SS Berengaria, with Fajga Rajs Tabak (Frances) and Telca Rajs Tabak. The manifest itself has not been inspected for this edition. Fran remembers arriving at six; that recalled age and the pregnancy/departure sequence should not be forced into a precise birth date without records.
+10. **August 28, 1976; July 1988; February 23, 1997:** Telca’s death, this recorded reunion, and Abe’s death, respectively; death dates are supplied by Nancy’s family-research introduction.
+
+## Editorial choices and important distinctions
+
+### 00:01:39–00:05:20 — Ages, parents, and conscription
+
+The transcript preserves spoken ages and jokes. The family profile and timeline use Nancy’s researched dates. This avoids falsely making Abe or Gene say a corrected date. Nancy hears “Cantonista”; the historical term is **cantonist**, referring here to Jewish boys taken into the Russian military system. Harry’s email puts Moishe’s conscription at about eight and recounts his being sent home after a fall. That explanation is additional family history, not inserted into the video transcript. The separate story about a landsman’s 25 years of service remains a separate anecdote. [YIVO: Military Service in Russia](https://encyclopedia.yivo.org/article/244).
+
+### 00:05:44–00:06:55 — The Russian doctor
+
+**Resolved by the user and Nancy’s joint listening review.** Sylvia says “German doctor”; Abe immediately corrects her: **“It was a Russian.”** The earlier machine passes missed the correction and incorrectly made the account appear to identify a German doctor. This edition restores the exchange and identifies the physician as Russian in the notes. The lost prescription, improvement, subsequent illness, and death remain family recollections; the transcript does not infer a modern medical diagnosis.
+
+### 00:07:10–00:09:49 — Telca’s family and “mitchered”
+
+Nancy identifies this discussion as concerning Grandma/Telca’s parents. Sylvia connects the remembered “brain fever” account with her own encephalitis at 28; that comparison does not establish Telca’s mother’s cause of death. Nancy also identifies Fran’s correction of “tortured” to **mitchered**, meaning annoyed or bothered in her explanation. That correction is incorporated. The discussion’s competing illness descriptions are not silently made equivalent.
+
+### 00:10:00–00:16:22 — Yisroel, Chaim, and the Holocaust accounts
+
+Nancy’s family identifications resolve the main name confusion: Yisroel married Yitta and is the brother described as killed in World War I; Chaim is the tailor/prisoner-of-war brother. The later account of Chaim’s death shifts to World War II. Abe reports a mine being flooded; Nancy says the family tree instead records Chaim as starving while escaping the Nazis, and Shossy dying during escape. This edition retains the mine account as **what Abe reports**, without presenting it as an established cause of death. Neither an audio transcript nor an unsupported choice between accounts can settle the historical event.
+
+For the family relationships, Nancy’s researched identification is preferred: **Yitta and Hansha were Yisroel’s wife and daughter; Yitzak was Chaim’s son.** The interview appears to mix some of these relationships. The summary uses the researched relationships while the transcript preserves the spoken account with an explanatory note. Nancy reports a Haifa residence for Yitzak in 1970 in the tree; no death date is established by those materials as described.
+
+### 00:16:23–00:30:11 — Displacement, trade, and towns
+
+The garbled shop item “calcium” is corrected to **kerosene**, supported by Nancy and a fresh recognition check of that audio passage. Other adopted readings include **peasants, Austrian gendarmes, flour, orchard**, and the shopkeeper-relative wording where Nancy supplies a clear reading. Her explanation of **traif** concerns the fear that a borrowed pot would be used for non-kosher food. The extent of the sergeant’s violence toward Abe’s mother remains unclear.
+
+The place spellings are standardized to **Krasnobród, Zamość, and Tomaszów** (Tomaszów Lubelski in the family notes). Nancy’s text and Harry’s email provide stronger identification than phonetic guesses from the first draft. Unnamed smaller towns on the detention route remain unnamed. Krasnobród’s municipal history describes Russian rule before World War I, fighting in 1915, and subsequent Austrian occupation; that provides regional context, not a date for every family episode. [Krasnobród municipality: history](https://krasnobrod.pl/historia/); [POLIN: Tomaszów Lubelski](https://sztetl.org.pl/en/towns/t/51-tomaszow-lubelski/96-local-history/70152-local-history).
+
+### 00:30:12–00:44:25 — Arrest and emigration
+
+**Harry’s additional explanation:** a cousin of Abe’s with the same name had deserted the Polish army, and Abe lacked a birth certificate to prove the distinction. Harry describes Telca obtaining legal help, selling property, and arranging a bribe. These details make sense of Judy’s question about being arrested for a cousin, but they are not inserted as newly recovered dialogue. The precise ordering of arrest, marriage, quota delay, and departure differs or remains ambiguous across the accounts. The transcript keeps its video order; the timeline attributes the more specific dates to their sources.
+
+The interview’s **Thursday** market-day reading is adopted because Nancy and the stronger original recognition pass agree. **Telca**, rather than the machine’s “Telson,” is adopted in the account of locating his wife. **HIAS** and **Antwerp** are supported by Nancy and recognition evidence. HIAS was an immigrant-aid organization, and YIVO records its European offices in 1920–1922. [HIAS: history](https://hias.org/who/our-history/); [YIVO: HIAS Archive](https://yivoarchives.yivo.org/index.php?id=33120&p=collections%2Fcontrolcard).
+
+The U.S. quota system dates to 1921 and was revised in 1924. The inflation context belongs to the aftermath of World War I: Poland experienced hyperinflation in 1923 and introduced the złoty in April 1924. A spoken or misrecognized “World War II” in this part of the conversation is therefore not adopted as the date of Abe’s emigration. [U.S. Office of the Historian: immigration quotas](https://history.state.gov/milestones/1921-1936/immigration-act); [National Bank of Poland: centenary of the złoty](https://nbp.pl/wp-content/uploads/2024/04/Moneta_100-rocznica-wprowadzenia-zlotego-do-obiegu_folder.pdf).
+
+### 00:44:28–01:09:45 — The children’s memories
+
+**Frances/Fran** is the speaker describing arrival in America at six, the teacher, and citizenship paperwork. Nancy identifies Annie as Sadie’s sister; Sadie was Victor’s sister-in-law and later Carol’s step-grandmother. Harry says he heard from Sadie that the teacher was fired. That is a reported family account, not a personnel record.
+
+Nancy identifies **Harry** in the lost-child story; **Sylvia** in the toddler/swimming-pool memory; **Fran** in the Pennsylvania near-drowning story; **Rita** in the cigarette/hair incident; and **Bobbi** in the “sort of a girl” birth-announcement story. Labels are applied to matched passages rather than every nearby interjection. Her own recollections of stories told on other occasions remain in annotations, not in the transcript.
+
+The record title is restored as **Strauss waltz**. The proposed origin of **Tabak** remains family tradition; neither Nancy’s notes nor the interview proves a connection to the Hungarian rabbi mentioned by Harry. The “cotton cup” expression is retained as Nancy’s phonetic reading, not given a speculative translation.
+
+### 01:08:30–01:17:05 — Moishe and Bajla Ruchia’s work
+
+**Whiskey**, not “biscuits,” is the selected reading for Moishe’s early workplace and lunch story: Nancy and a targeted recognition check agree. “Quart” is retained as the reported wording, not a verified measurement of consumption. Nancy’s account also clarifies that Moishe travelled away to beg after he was too old to work, and attended **shul**, where people invited him home for the holidays. These details are incorporated without euphemizing them or inventing a different occupation.
+
+**Berries**, not “bells,” is the selected reading in Bajla Ruchia’s pushcart story. The account of her supporting the family, cooking for celebrations, baking, selling ice cream and lemonade, and borrowing money when Victor married is restored from Nancy’s notes. Some words about summer festivities and the name of Moishe’s travelling companion remain uncertain.
+
+### 01:17:40–01:18:15 — Factory pay
+
+The edited text selects **$125 a week**. Nancy’s notes give $135, but the original and targeted recognition passes favor $125; Nancy supplies the clear pay period. This is an informed editorial reading and can be revised if a listener resolves the number. The subsequent “eight hours / three hours” wording remains unclear; it has not been converted into a confident work schedule.
+
+## Thematic reading guide
+
+1. **Parents and family structure:** 00:01:39–00:05:20; return to their work at 01:08:30 and 01:10:14–01:17:05.
+2. **Illness and bereavement:** 00:05:44–00:09:49. The people referred to as “Mama” and “my mother” change with the speaker.
+3. **Growing up during World War I:** 00:10:00–00:12:40 and 00:16:23–00:30:11. The intervening passage shifts to relatives in World War II.
+4. **Marriage, arrest, and emigration:** 00:30:12–00:44:25, with Harry’s separate explanation above.
+5. **Life in America and the next generation:** 00:44:28–00:58:12 and 01:00:25–01:09:45.
+6. **Family identity and memory:** surname discussion at 00:58:12–01:00:25; the late portrait of Bajla Ruchia is especially substantial.
+
+## Remaining research questions
+
+The useful next checks are documentary: the exact marriage date and emigration sequence; the passenger manifest and birth date for Frances; documentation of Chaim’s fate; the complete sibling list; and the smaller towns on the arrest route. These questions do not prevent using the consolidated transcript, but the available material does not justify inventing answers.
