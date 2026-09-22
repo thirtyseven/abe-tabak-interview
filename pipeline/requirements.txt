@@ -1,0 +1,10 @@
+huggingface-hub
+mlx-whisper
+numpy
+pyannote.audio
+scipy
+torch
+transformers
+google-api-python-client
+google-auth-oauthlib
+
