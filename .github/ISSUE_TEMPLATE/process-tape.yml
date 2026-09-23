@@ -1,0 +1,36 @@
+name: Process a tape
+description: Track one numbered tape from source tracks through a reviewable draft.
+title: "[Tape N] Publish working transcript"
+labels: ["tape-processing"]
+body:
+  - type: input
+    id: tape
+    attributes:
+      label: Tape
+      placeholder: "Tape 2"
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Source tracks
+      description: List recording IDs or filenames without attaching private media.
+    validations:
+      required: true
+  - type: checkboxes
+    id: stages
+    attributes:
+      label: Processing checklist
+      options:
+        - label: Source order and continuous timeline verified
+        - label: ASR selected or regenerated and spot-checked
+        - label: Speaker diarization aligned conservatively
+        - label: Media uploaded privately and processed
+        - label: Owner changed media to unlisted
+        - label: Shared reader built with honest status
+        - label: Live page and timestamp playback verified
+        - label: Known identity or language questions recorded
+  - type: textarea
+    id: notes
+    attributes:
+      label: Known voices, language, or recording notes

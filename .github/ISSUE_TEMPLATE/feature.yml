@@ -1,0 +1,31 @@
+name: Feature or workflow improvement
+description: Propose a reader, archive, or family-review improvement.
+title: "[Site] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Family or project need
+      description: Describe the problem in plain language.
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired outcome
+      description: What should a reviewer or maintainer be able to do?
+    validations:
+      required: true
+  - type: textarea
+    id: done
+    attributes:
+      label: Acceptance criteria
+      placeholder: "- [ ] …"
+    validations:
+      required: true
+  - type: textarea
+    id: constraints
+    attributes:
+      label: Constraints or notes
+      description: Include simplicity, privacy, compatibility, or accessibility concerns.

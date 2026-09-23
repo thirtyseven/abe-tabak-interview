@@ -1,0 +1,30 @@
+name: Bug report
+description: Something in the reader, transcript workflow, or pipeline is not working.
+title: "[Site] "
+labels: ["bug"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe what you expected and what happened instead.
+    validations:
+      required: true
+  - type: input
+    id: recording
+    attributes:
+      label: Recording and timestamp
+      placeholder: "Tape 1, 00:23:07"
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Steps to reproduce
+      placeholder: "1. Open…\n2. Click…"
+  - type: textarea
+    id: done
+    attributes:
+      label: Acceptance criteria
+      description: What observable behavior will confirm the fix?
+      placeholder: "- [ ] …"
+    validations:
+      required: true
