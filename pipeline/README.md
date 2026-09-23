@@ -43,6 +43,21 @@ storage key (`abe-tabak-tape1-corrections-v1`), export format
 (`abe-tabak-family-corrections-v1`), filename, and media ID are retained so
 existing browser corrections and export files continue to work.
 
+## Rebuild the collection homepage
+
+From the repository root, run `python3 pipeline/build_collection_homepage.py`.
+It reads `site/collection.json` and `site/collection_template.html`, then writes
+the published root `index.html`. The homepage stylesheet and the original
+interview still are in `site/`. The original video reader remains unchanged at
+`Abe_Tabak_interview.html`.
+
+Collection status labels live only in `site/collection.json`. Published audio
+reader links are derived from each recording's config `output` path, so a live
+card cannot point to a missing reader. Move a tape number from `upcoming.numbers`
+to `featured` only when its reader is ready to publish; then rebuild and commit
+the homepage and source data together. The builder checks that the original
+video and every numbered tape appear exactly once.
+
 Reviewed transcript data is committed under `transcripts/`. Original browser
 exports remain in local archival storage because they may contain private family
 notes; Git history records the resulting published changes. Recordings, working
