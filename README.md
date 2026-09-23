@@ -37,6 +37,8 @@ Exports are cumulative, so review can happen across many short sessions. Importi
 - `index.html` and the root transcript files contain the original 1988 video edition.
 - `tapes/` contains the published readers and downloadable draft transcripts.
 - `transcripts/` contains canonical structured transcript data.
+- `recordings/` contains per-recording reader configuration, including media IDs,
+  chapters, speaker choices, and browser storage keys.
 - `review-batches/` contains correction batches that were intentionally retained as project records.
 - `pipeline/` contains the reproducible transcription, diarization, import, build, and upload tools.
 - [`PROJECT.md`](PROJECT.md) defines scope, statuses, priorities, and the lightweight issue workflow.
@@ -57,4 +59,5 @@ The recording table above is the human-readable overview. Issues contain the imp
 
 Python dependencies are listed in `pipeline/requirements.txt`; FFmpeg is also required. Original recordings, model caches, generated working files, OAuth credentials, and browser correction exports remain outside the repository unless deliberately incorporated into the public archive.
 
-See [`pipeline/README.md`](pipeline/README.md) for the current processing stages and known Tape 1-specific code that still needs to be generalized.
+See [`pipeline/README.md`](pipeline/README.md) for processing stages and the
+recording-driven reader build.

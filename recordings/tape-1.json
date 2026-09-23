@@ -1,0 +1,104 @@
+{
+  "title": "Abe Tabak tapes · Tape 1 pilot",
+  "eyebrow": "Family oral history · pilot transcript",
+  "heading": "Abe Tabak tapes",
+  "description": "Tape 1 · Bella (Rita), Nina, Len, and Abraham “Abe” Tabak · 1:03:36",
+  "notice": "Automatic speaker detection found one stable Abe voice and one interviewer voice identified by the family as Bella. Mixed passages are labeled explicitly. Close-listening corrections, Yiddish transcription, and translation remain under editorial review.",
+  "media_title": "The Abe Tabak Tapes — Tape 1",
+  "media_id": "fJDnT9XBD58",
+  "speakers": [
+    "Abe",
+    "Bella",
+    "Nina",
+    "Len",
+    "Dan",
+    "Multiple speakers",
+    "Unclear speaker"
+  ],
+  "chapters": [
+    {
+      "start": 0,
+      "title": "Relatives, marriage, and World War I"
+    },
+    {
+      "start": 266,
+      "title": "Abe’s earliest memories"
+    },
+    {
+      "start": 420,
+      "title": "Cheder and an older brother’s wedding"
+    },
+    {
+      "start": 700,
+      "title": "Evacuation from Krasnobród"
+    },
+    {
+      "start": 925,
+      "title": "Shelter and trading around Zamość"
+    },
+    {
+      "start": 1170,
+      "title": "Return to Krasnobród and wartime money"
+    },
+    {
+      "start": 1390,
+      "title": "Hunger, epidemic, and the Russian Jewish doctor"
+    },
+    {
+      "start": 1620,
+      "title": "His mother’s illness and death"
+    },
+    {
+      "start": 1810,
+      "title": "Polish conscription and family ages"
+    },
+    {
+      "start": 2320,
+      "title": "Learning the shoemaking trade"
+    },
+    {
+      "start": 2580,
+      "title": "Trading food between Krasnobród and Tomaszów"
+    },
+    {
+      "start": 2820,
+      "title": "Shoemaking, customers, and illness"
+    },
+    {
+      "start": 3300,
+      "title": "Summer visitors and teenage courtship"
+    }
+  ],
+  "annotations": [
+    {
+      "title": "Names and relationships",
+      "text": "Several names in the opening are still phonetic machine readings. They remain unresolved until checked against the audio and family records."
+    },
+    {
+      "title": "Cheder",
+      "text": "At about 00:05:00, the recognizer writes “Haida.” Abe is describing cheder, the traditional Jewish elementary school where boys began religious study."
+    },
+    {
+      "title": "Nadn",
+      "text": "At about 00:08:00, Abe explains the Yiddish word nadn: the dowry or marriage portion associated with a match."
+    },
+    {
+      "title": "Place names",
+      "text": "Machine variants such as Krasenbord, Samish, Tomshof, and Tomaschow likely refer to Krasnobród, Zamość, and Tomaszów Lubelski. The draft preserves the spoken evidence pending close listening."
+    },
+    {
+      "title": "The doctor",
+      "text": "At about 00:24:00, Abe describes a Russian Jewish physician who was an Austrian prisoner of war and visited homes during an epidemic."
+    },
+    {
+      "title": "Language",
+      "text": "The conversation is mostly English with Yiddish, Polish, and Yinglish words. Unfamiliar words are retained phonetically rather than replaced with guesses."
+    }
+  ],
+  "storage_key": "abe-tabak-tape1-corrections-v1",
+  "player_size_key": "abe-tabak-tape1-player-size-v1",
+  "export_recording": "Tape 1",
+  "export_filename": "Abe_Tabak_Tape_1_family_corrections.json",
+  "transcript": "../transcripts/tape-1.json",
+  "output": "../tapes/tape-1/index.html"
+}
