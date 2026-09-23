@@ -1,7 +1,6 @@
 {
   "upcoming": {
     "numbers": [
-      2,
       3,
       4,
       5,
@@ -41,6 +40,20 @@
       "art": "audio",
       "number": 1,
       "duration": "01:03:36"
+    },
+    {
+      "label": "Tape 2",
+      "period": "Later family conversations · audio",
+      "title": "Emigration, family, and village life",
+      "summary": "Abe continues with his passport and arrest, conscription, childhood stories, work, marriage, relatives, and the treatment of orphaned children. Speaker identities and many words still need family review.",
+      "recording_config": "recordings/tape-2.json",
+      "asr": "Automatic draft generated",
+      "speakers": "Abe labeled; four voice clusters unidentified",
+      "publication": "Working reader published",
+      "family_review": "Not started",
+      "art": "audio",
+      "number": 2,
+      "duration": "00:58:03"
     }
   ]
 }

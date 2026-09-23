@@ -1,4 +1,4 @@
-"""Upload the Tape 1 pilot to the owner's YouTube channel as Private."""
+"""Upload an oral-history recording to the owner's YouTube channel as Private."""
 
 import argparse
 import json
@@ -40,6 +40,16 @@ def main() -> None:
         type=Path,
         default=Path(__file__).resolve().parent / ".youtube-oauth-token.json",
     )
+    parser.add_argument("--title", default="The Abe Tabak Tapes — Tape 1")
+    parser.add_argument(
+        "--description",
+        default=(
+            "Family oral-history recording with Abraham ‘Abe’ Tabak and relatives. "
+            "This private archival upload accompanies a timestamped working transcript "
+            "under family and editorial review."
+        ),
+    )
+    parser.add_argument("--output", type=Path, help="Write upload metadata to this JSON file")
     args = parser.parse_args()
 
     youtube = build("youtube", "v3", credentials=credentials(args.client_secret, args.token_file))
@@ -47,12 +57,8 @@ def main() -> None:
         part="snippet,status",
         body={
             "snippet": {
-                "title": "The Abe Tabak Tapes — Tape 1",
-                "description": (
-                    "Family oral-history recording with Abraham ‘Abe’ Tabak, Bella (Rita), "
-                    "Nina, and Len. This private archival upload accompanies a timestamped, "
-                    "annotated transcript under editorial review."
-                ),
+                "title": args.title,
+                "description": args.description,
                 "categoryId": "22",
                 "defaultLanguage": "en",
                 "tags": ["family oral history", "Abe Tabak", "Krasnobrod", "Yiddish"],
@@ -80,7 +86,8 @@ def main() -> None:
         "studio_url": f"https://studio.youtube.com/video/{video_id}/edit",
         "privacy": "private",
     }
-    output = args.video.with_name("youtube-upload.json")
+    output = args.output or args.video.with_name("youtube-upload.json")
+    output.parent.mkdir(parents=True, exist_ok=True)
     output.write_text(json.dumps(result, indent=2) + "\n")
     print(json.dumps(result, indent=2))
 
