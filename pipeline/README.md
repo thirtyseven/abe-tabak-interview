@@ -1,13 +1,8 @@
 # Transcription pipeline
 
 This directory versions the scripts used to inventory, transcribe, diarize, align,
-render, and upload the Abe Tabak recordings. The published HTML lives elsewhere in
-this repository because GitHub Pages serves the repository root.
-
-The scripts are currently organized around the Tape 1 pilot and its working-data
-layout. They document the exact process used for the published pilot; subsequent
-tapes should generalize the Tape 1-specific entry points rather than duplicating
-them.
+render, and upload the Abe Tabak recordings. GitHub Pages serves the generated
+reader from `tapes/`.
 
 ## Main stages
 
@@ -17,20 +12,39 @@ them.
 4. `tag_tape1_segments.py` aligns diarization with transcript passages.
 5. `import_family_corrections.py` validates and merges an exported family-review
    batch into the canonical transcript.
-6. `build_tape1_reader.py` builds the interactive transcript and correction UI.
+6. `build_reader.py` builds a reader from recording configuration and canonical
+   transcript data. `build_tape1_reader.py` remains a compatible Tape 1 command.
 7. `upload_private_youtube.py` uploads an archival video as private through the
    YouTube Data API.
 
-Reviewed transcript data is committed under `../transcripts/`. Original browser
+## Rebuild readers
+
+From the repository root:
+
+```sh
+python3 pipeline/build_reader.py recordings/tape-1.json
+python3 pipeline/build_reader.py pipeline/fixtures/recording.json --output work/reader-fixture/index.html
+```
+
+The first command reads `transcripts/tape-1.json` and writes the published
+`tapes/tape-1/index.html`. The second builds a small synthetic recording in an
+ignored working directory, proving that the same template and assets accept a
+different media ID, speaker list, chapters, transcript, and storage key. The
+fixture media ID is deliberately not a real video. To add another recording,
+create a config following `recordings/tape-1.json`, point `transcript` at its
+canonical JSON, and set its published `output` path. Paths in a config are
+relative to that config file. `--output` overrides the configured output.
+
+`pipeline/reader_template.html`, `tapes/assets/reader.css`, and
+`tapes/assets/reader.js` are the shared interface source. Each generated page
+contains recording-specific HTML and a small JSON configuration for the shared
+JavaScript. Build and commit source files and generated HTML together. Tape 1's
+storage key (`abe-tabak-tape1-corrections-v1`), export format
+(`abe-tabak-family-corrections-v1`), filename, and media ID are retained so
+existing browser corrections and export files continue to work.
+
+Reviewed transcript data is committed under `transcripts/`. Original browser
 exports remain in local archival storage because they may contain private family
-notes; Git history records the resulting published changes.
-
-## Local-only inputs
-
-Recordings, extracted audio, generated transcripts, model caches, OAuth client
-secrets, and refresh tokens must stay outside Git. The scripts in this snapshot
-refer to the adjacent working tree used for the pilot. Before making this a
-portable batch pipeline, replace the remaining Tape 1 paths with command-line
-arguments and a data directory outside the repository.
-
-Python dependencies are recorded in `requirements.txt`. FFmpeg is also required.
+notes; Git history records the resulting published changes. Recordings, working
+transcripts, model caches, OAuth secrets, and refresh tokens stay outside Git.
+Python dependencies are recorded in `requirements.txt`; FFmpeg is also required.

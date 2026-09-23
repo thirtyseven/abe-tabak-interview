@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>$title</title><link rel="stylesheet" href="$css"></head><body>
+<header><div class="eyebrow">$eyebrow</div><h1>$heading</h1><p>$description</p></header>
+<div class="layout"><aside><h2>In this recording</h2>$nav</aside><main>
+<div class="notice"><strong>Working transcript.</strong> $notice</div>
+<div class="player compact" id="playerPanel"><iframe id="youtubePlayer" title="$media_title" src="https://www.youtube.com/embed/$media_id?enablejsapi=1&amp;playsinline=1&amp;rel=0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><div class="player-meta"><p id="playerStatus">Loading YouTube player…</p><div class="size-controls" aria-label="Player size"><span>Player size</span><button type="button" data-player-size="compact">Compact</button><button type="button" data-player-size="standard">Standard</button><button type="button" data-player-size="large">Large</button></div></div></div>
+<div class="tabs"><button class="selected" data-panel="transcript">Transcript</button><button data-panel="notes">Annotations</button></div>
+<section id="transcript"><div class="review-tools"><strong>Family review workspace</strong><br>Use “Correct or annotate” beside any passage. Changes save only in this browser. Export the correction file when you are ready to share it; importing a previous export merges it into this browser’s saved work.<div class="review-actions"><button id="exportEdits" type="button">Export corrections (.json)</button><label class="import-label">Import corrections<input id="importEdits" type="file" accept="application/json,.json"></label><span id="editCount"></span></div></div><div class="toolbar"><input id="search" type="search" placeholder="Search the transcript…"><label><input id="review" type="checkbox"> Check audio only</label><label><input id="followPlayback" type="checkbox" checked> Follow playback</label></div><div id="count"></div>$rows</section>
+<section id="notes" class="notes" hidden>$notes</section>
+</main></div><script id="reader-config" type="application/json">$runtime_json</script><script src="$js" defer></script></body></html>
