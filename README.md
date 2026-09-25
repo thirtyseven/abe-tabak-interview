@@ -9,17 +9,17 @@ The public reader combines synchronized media and transcripts with a deliberatel
 
 ## Read and review
 
-- [Original July 1988 family video](https://thirtyseven.github.io/abe-tabak-interview/)
+- [Collection homepage](https://thirtyseven.github.io/abe-tabak-interview/)
+- [Original July 1988 family video](https://thirtyseven.github.io/abe-tabak-interview/Abe_Tabak_interview.html)
 - [Tape 1 working transcript](https://thirtyseven.github.io/abe-tabak-interview/tapes/tape-1/)
 - [Open work and feature requests](https://github.com/thirtyseven/abe-tabak-interview/issues)
 
 ## Current status
 
-| Recording | ASR | Speakers | Web reader | Family review |
-| --- | --- | --- | --- | --- |
-| Original 1988 video | Published | Partially identified | Published | Ongoing |
-| Tape 1 | Generated | Abe and Bella detected | Published | **In progress; many corrections remain** |
-| Tapes 2–9 | Baseline generated | Not yet processed | Not yet published | Not started |
+The [collection homepage](https://thirtyseven.github.io/abe-tabak-interview/) lists
+the ASR, speaker, reader, and family-review status of each recording. Its source
+is [`site/collection.json`](site/collection.json). Tape 1 remains a working draft
+under family review; a published reader does not mean that review is complete.
 
 The source collection contains 14 audio files because some numbered tapes have multiple tracks. Together they contain about 7.8 hours of audio.
 
@@ -34,9 +34,14 @@ Exports are cumulative, so review can happen across many short sessions. Importi
 
 ## Project organization
 
-- `index.html` and the root transcript files contain the original 1988 video edition.
+- `index.html` is the generated collection homepage. `Abe_Tabak_interview.html`
+  preserves the original 1988 video reader; the root transcript files accompany it.
+- `site/` contains the homepage source data, template, stylesheet, and existing
+  interview still used on the homepage.
 - `tapes/` contains the published readers and downloadable draft transcripts.
 - `transcripts/` contains canonical structured transcript data.
+- `recordings/` contains per-recording reader configuration, including media IDs,
+  chapters, speaker choices, and browser storage keys.
 - `review-batches/` contains correction batches that were intentionally retained as project records.
 - `pipeline/` contains the reproducible transcription, diarization, import, build, and upload tools.
 - [`PROJECT.md`](PROJECT.md) defines scope, statuses, priorities, and the lightweight issue workflow.
@@ -57,4 +62,5 @@ The recording table above is the human-readable overview. Issues contain the imp
 
 Python dependencies are listed in `pipeline/requirements.txt`; FFmpeg is also required. Original recordings, model caches, generated working files, OAuth credentials, and browser correction exports remain outside the repository unless deliberately incorporated into the public archive.
 
-See [`pipeline/README.md`](pipeline/README.md) for the current processing stages and known Tape 1-specific code that still needs to be generalized.
+See [`pipeline/README.md`](pipeline/README.md) for processing stages and the
+recording-driven reader build.

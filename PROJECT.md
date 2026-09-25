@@ -87,3 +87,10 @@ A tape is not “done” merely because its page is live. Technical publication 
 - Yiddish within English is retained and may be marked typographically; translations and uncertainty belong in notes.
 - Speaker labels are conservative. Expected voices include Abe, Bella, Nina, Len, and possibly Dan, but presence varies by tape.
 - Git commits and issues record implementation changes; public annotations should discuss the history, not previous transcript editions.
+- Numbered tape readers are built from canonical transcript JSON and per-recording
+  configuration with shared CSS and JavaScript under `tapes/assets/`. Tape 1 keeps
+  its original browser storage key and correction export format.
+- The collection homepage is built from `site/collection.json`. That file owns the
+  public collection status labels and links to published readers; unpublished
+  recordings have no reader link. The original 1988 reader remains at
+  `Abe_Tabak_interview.html`.

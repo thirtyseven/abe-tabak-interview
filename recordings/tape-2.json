@@ -1,0 +1,61 @@
+{
+  "title": "Abe Tabak tapes · Tape 2 working transcript",
+  "eyebrow": "Family oral history · working transcript",
+  "heading": "Abe Tabak tapes",
+  "description": "Tape 2 · Abraham “Abe” Tabak and unidentified family interviewers · 58:03",
+  "notice": "This is an automatic working transcript prepared for family review. One stable voice cluster is identified as Abe; four other detected voice clusters remain unidentified rather than being assigned names without family evidence. Close-listening corrections, Yiddish transcription, translation, and speaker identities remain under review.",
+  "media_title": "The Abe Tabak Tapes — Tape 2",
+  "media_id": "2kS5lvQV_bs",
+  "speakers": [
+    "Abe",
+    "Bella",
+    "Nina",
+    "Len",
+    "Dan",
+    "Unidentified speaker 1",
+    "Unidentified speaker 2",
+    "Unidentified speaker 3",
+    "Unidentified speaker 4",
+    "Multiple speakers",
+    "Unclear speaker"
+  ],
+  "chapters": [
+    {"start": 0, "title": "Passport trouble, arrest, and jail"},
+    {"start": 420, "title": "His age, conscription, and proving his birth year"},
+    {"start": 900, "title": "Childhood stories, mischief, and nicknames"},
+    {"start": 1320, "title": "Village life, secrets, and family trade"},
+    {"start": 1680, "title": "Siblings, World War I, and family losses"},
+    {"start": 2100, "title": "Porters, work, and earning a living"},
+    {"start": 2400, "title": "Marriage and community life"},
+    {"start": 2640, "title": "Wolf, relatives, and family stories"},
+    {"start": 3000, "title": "Orphaned children and how relatives treated them"}
+  ],
+  "annotations": [
+    {
+      "title": "Working status",
+      "text": "This reader is the first published automatic draft of Tape 2. Publication makes family correction possible; it does not mean that the transcript has been family reviewed."
+    },
+    {
+      "title": "Speakers",
+      "text": "Automatic diarization found five voice clusters. The dominant stable cluster is Abe. The remaining clusters are numbered until a family member identifies them at known timestamps."
+    },
+    {
+      "title": "Recognition warnings",
+      "text": "Passages with unusually repetitive or compressed recognition output are marked Check audio. Obvious recognition loops are replaced with a review marker instead of being presented as spoken testimony."
+    },
+    {
+      "title": "Language",
+      "text": "The conversation is primarily English with Yiddish and Yinglish words. Unfamiliar words remain phonetic or marked for review rather than silently normalized."
+    },
+    {
+      "title": "Source tracks",
+      "text": "Tape 2 was supplied as five tracks. Their embedded order and continuous transcript boundaries were preserved in a single 58-minute timeline."
+    }
+  ],
+  "storage_key": "abe-tabak-tape2-corrections-v1",
+  "player_size_key": "abe-tabak-tape2-player-size-v1",
+  "export_recording": "Tape 2",
+  "export_filename": "Abe_Tabak_Tape_2_family_corrections.json",
+  "transcript": "../transcripts/tape-2.json",
+  "output": "../tapes/tape-2/index.html"
+}

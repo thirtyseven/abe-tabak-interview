@@ -1,0 +1,20 @@
+{
+  "title": "Reader fixture",
+  "eyebrow": "Build fixture",
+  "heading": "Another recording",
+  "description": "A short synthetic transcript",
+  "notice": "Synthetic passages for checking the shared reader build.",
+  "media_title": "Fixture player",
+  "media_id": "fixture-media-id",
+  "speakers": ["Narrator", "Guest", "Unclear speaker"],
+  "chapters": [
+    {"start": 0, "title": "Opening"},
+    {"start": 15, "title": "Second part"}
+  ],
+  "annotations": [{"title": "Fixture note", "text": "A note from a different recording."}],
+  "storage_key": "abe-tabak-reader-fixture-corrections-v1",
+  "player_size_key": "abe-tabak-reader-fixture-player-size-v1",
+  "export_recording": "Fixture",
+  "export_filename": "reader-fixture-corrections.json",
+  "transcript": "transcript.json"
+}

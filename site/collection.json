@@ -1,0 +1,59 @@
+{
+  "upcoming": {
+    "numbers": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ],
+    "asr": "Baseline generated",
+    "speakers": "Not yet reviewed",
+    "publication": "Not published",
+    "family_review": "Not started"
+  },
+  "featured": [
+    {
+      "label": "Original interview",
+      "period": "July 1988 · family reunion video",
+      "title": "Abe tells his story",
+      "summary": "A family interview about growing up in Krasnobród, leaving Poland, and building a life in America. The reader includes a synchronized transcript, family identifications, and historical notes.",
+      "reader": "Abe_Tabak_interview.html",
+      "asr": "Transcribed and annotated",
+      "speakers": "Partially identified",
+      "publication": "Reader published",
+      "family_review": "In progress",
+      "art": "video"
+    },
+    {
+      "label": "Tape 1",
+      "period": "Later family conversations · audio",
+      "title": "Early life in Poland",
+      "summary": "Abe recalls school, family, wartime displacement, work, and courtship. The transcript is a working draft with many passages still needing close listening.",
+      "recording_config": "recordings/tape-1.json",
+      "asr": "Draft generated",
+      "speakers": "Abe and Bella labeled; others uncertain",
+      "publication": "Working reader published",
+      "family_review": "Family review in progress",
+      "art": "audio",
+      "number": 1,
+      "duration": "01:03:36"
+    },
+    {
+      "label": "Tape 2",
+      "period": "Later family conversations · audio",
+      "title": "Emigration, family, and village life",
+      "summary": "Abe continues with his passport and arrest, conscription, childhood stories, work, marriage, relatives, and the treatment of orphaned children. Speaker identities and many words still need family review.",
+      "recording_config": "recordings/tape-2.json",
+      "asr": "Automatic draft generated",
+      "speakers": "Abe labeled; four voice clusters unidentified",
+      "publication": "Working reader published",
+      "family_review": "Not started",
+      "art": "audio",
+      "number": 2,
+      "duration": "00:58:03"
+    }
+  ]
+}

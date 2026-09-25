@@ -1,0 +1,6 @@
+{
+  "segments": [
+    {"start": 1.0, "end": 3.5, "speaker": "Narrator", "text": "A first sample passage.", "needs_review": false},
+    {"start": 16.0, "end": 19.0, "speaker": "Guest", "text": "A *second* sample passage.", "needs_review": true}
+  ]
+}
