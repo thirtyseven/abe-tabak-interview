@@ -5,6 +5,7 @@ Usage: python3 pipeline/build_reader.py recordings/tape-1.json
 """
 
 import argparse
+import hashlib
 import html
 import json
 import os
@@ -80,6 +81,8 @@ def build(config_path, output_override=None):
         raise ValueError("Pass --output or set output in recording configuration")
     output.parent.mkdir(parents=True, exist_ok=True)
     asset_base = Path(os.path.relpath(ASSETS, output.parent)).as_posix()
+    reader_js = ASSETS / "reader.js"
+    js_url = asset_base + "/reader.js?v=" + hashlib.sha256(reader_js.read_bytes()).hexdigest()[:12]
     nav = "".join(
         f'<a href="#chapter-{index}" data-seek="{item["start"]}"><time>{timestamp(item["start"])}</time>{escaped(item["title"])}</a>'
         for index, item in enumerate(config["chapters"])
@@ -92,7 +95,7 @@ def build(config_path, output_override=None):
         title=escaped(config["title"]), eyebrow=escaped(config["eyebrow"]), heading=escaped(config["heading"]),
         description=escaped(config["description"]), notice=escaped(config["notice"]),
         media_title=escaped(config["media_title"]), media_id=escaped(config["media_id"]),
-        css=escaped(asset_base + "/reader.css"), js=escaped(asset_base + "/reader.js"),
+        css=escaped(asset_base + "/reader.css"), js=escaped(js_url),
         nav=nav, rows=render_rows(rows, config["chapters"]), notes=notes, runtime_json=runtime_json,
     )
     output.write_text(page)
