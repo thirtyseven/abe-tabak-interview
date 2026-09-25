@@ -29,7 +29,7 @@ def main() -> None:
         if abs(float(row["end"]) - float(edit["end"])) > 0.01:
             raise SystemExit(f"End time differs for passage at {key:.3f}")
         row["speaker"] = edit["speaker"].strip()
-        row["text"] = edit["text"].strip()
+        row["text"] = "\n".join(line.rstrip() for line in edit["text"].splitlines()).strip()
         note = edit.get("note", "").strip()
         if note:
             row["family_note"] = note

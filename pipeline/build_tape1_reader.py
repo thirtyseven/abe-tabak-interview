@@ -2,10 +2,9 @@ import html
 import json
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parents[2]
-PILOT = ROOT / "work" / "tapes" / "pilot-tape1"
-speaker_transcript = PILOT / "transcript-speakers.json"
-data = json.loads((speaker_transcript if speaker_transcript.exists() else PILOT / "transcript.json").read_text())
+ROOT = Path(__file__).resolve().parents[1]
+PILOT = ROOT / "tapes" / "tape-1"
+data = json.loads((ROOT / "transcripts" / "tape-1.json").read_text())
 rows = data["segments"]
 
 chapters = [
@@ -36,6 +35,13 @@ annotations = [
 def ts(value):
     value = int(value)
     return f"{value // 3600:02}:{value // 60 % 60:02}:{value % 60:02}"
+
+def srt_ts(value):
+    total = round(value * 1000)
+    hours, remainder = divmod(total, 3_600_000)
+    minutes, remainder = divmod(remainder, 60_000)
+    seconds, milliseconds = divmod(remainder, 1000)
+    return f"{hours:02}:{minutes:02}:{seconds:02},{milliseconds:03}"
 
 def chapter_for(value):
     return max(i for i, (start, _) in enumerate(chapters) if start <= value)
@@ -142,4 +148,19 @@ document.getElementById('search').oninput=filter;document.getElementById('review
 document.querySelectorAll('[data-panel]').forEach(b=>b.onclick=()=>{{document.querySelectorAll('[data-panel]').forEach(x=>x.classList.toggle('selected',x===b));document.getElementById('transcript').hidden=b.dataset.panel!=='transcript';document.getElementById('notes').hidden=b.dataset.panel!=='notes';}});
 </script></body></html>'''
 (PILOT / "index.html").write_text(page)
+plain = ["ABE TABAK TAPES — TAPE 1", "", data["method"], ""]
+srt = []
+for number, row in enumerate(rows, 1):
+    marker = " [check audio]" if row["needs_review"] else ""
+    plain.append(f'[{ts(row["start"])}]{marker} {row["text"]}')
+    srt.extend(
+        [
+            str(number),
+            f'{srt_ts(row["start"])} --> {srt_ts(row["end"])}',
+            row["text"],
+            "",
+        ]
+    )
+(PILOT / "transcript-draft.txt").write_text("\n".join(plain) + "\n")
+(PILOT / "subtitles-draft.srt").write_text("\n".join(srt))
 print(f"Wrote {PILOT / 'index.html'}")

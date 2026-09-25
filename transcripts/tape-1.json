@@ -22,13 +22,16 @@
     {
       "start": 7.36,
       "end": 10.04,
-      "text": "How long were, this is Humberj?",
+      "text": "How long were, this is Hambersh?",
       "speaker": "Bella",
       "source_track": "R01",
       "source_start": 7.36,
       "confidence": -0.3584,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_note": "Family tree does not show a Hambersch as far as I can tell and this spelling is questionable.",
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T00:31:11.017Z"
     },
     {
       "start": 10.4,
@@ -44,46 +47,55 @@
     {
       "start": 11.12,
       "end": 13.9,
-      "text": "The good looking one was Humberj?",
+      "text": "The good looking one was Hambersh?",
       "speaker": "Bella",
       "source_track": "R01",
       "source_start": 11.12,
       "confidence": -0.3584,
       "needs_review": false,
-      "speaker_confidence": 0.958
+      "speaker_confidence": 0.958,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T00:30:52.358Z"
     },
     {
       "start": 13.94,
       "end": 15.4,
-      "text": "Humberj was also good looking.",
+      "text": "Hambersh was also good looking.",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 13.94,
       "confidence": -0.3584,
       "needs_review": false,
-      "speaker_confidence": 0.979
+      "speaker_confidence": 0.979,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T00:31:25.282Z"
     },
     {
       "start": 15.52,
       "end": 16.82,
-      "text": "And the second one staying?",
+      "text": "And the second one \"Schul\"?",
       "speaker": "Bella",
       "source_track": "R01",
       "source_start": 15.52,
       "confidence": -0.3584,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_note": "Can't make out that name.",
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T00:32:49.502Z"
     },
     {
       "start": 16.9,
       "end": 17.72,
-      "text": "The second sore.",
+      "text": "The second \"Schul.\"",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 16.9,
       "confidence": -0.3584,
       "needs_review": false,
-      "speaker_confidence": 0.849
+      "speaker_confidence": 0.849,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:06:26.058Z"
     },
     {
       "start": 18.7,
@@ -94,7 +106,10 @@
       "source_start": 18.7,
       "confidence": -0.3584,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_note": "Bella is talking about Grandpa's brother Yisroel (1887 - 1914)",
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T00:35:13.026Z"
     },
     {
       "start": 22.08,
@@ -132,13 +147,16 @@
     {
       "start": 32.84,
       "end": 36.2,
-      "text": "And he married, and in 1914 broke out of war.",
+      "text": "And he married, and in 1914 broke out the war.",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 32.84,
       "confidence": -0.2136,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_note": "He married Yitta.",
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T00:35:27.678Z"
     },
     {
       "start": 37.12,
@@ -165,13 +183,15 @@
     {
       "start": 40.58,
       "end": 42.4,
-      "text": "She gave birth to two children.",
+      "text": "She [Yitta] gave birth to two children.",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 40.58,
       "confidence": -0.2136,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:07:11.248Z"
     },
     {
       "start": 44.14,
@@ -187,13 +207,15 @@
     {
       "start": 49.12,
       "end": 51.24,
-      "text": "And it was such a smart kid.",
+      "text": "And he was such a smart kid.",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 49.12,
       "confidence": -0.2136,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T00:35:42.743Z"
     },
     {
       "start": 51.94,
@@ -231,13 +253,15 @@
     {
       "start": 61.1,
       "end": 65.14,
-      "text": "And the chanches, the sore chanches.",
+      "text": "And Hansha, you saw Hansha",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 61.1,
       "confidence": -0.2504,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-22T21:03:35.743Z"
     },
     {
       "start": 66.52,
@@ -319,24 +343,28 @@
     {
       "start": 76.84,
       "end": 77.76,
-      "text": "Yeah, she was a good looking, nice boy.",
+      "text": "Yeah, she was a good looking...",
       "speaker": "Bella",
       "source_track": "R01",
       "source_start": 76.84,
       "confidence": -0.2504,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:08:53.311Z"
     },
     {
       "start": 77.76,
       "end": 79.28,
       "text": "And then she got so fat.",
-      "speaker": "Bella",
+      "speaker": "Abe",
       "source_track": "R01",
       "source_start": 77.76,
       "confidence": -0.1851,
       "needs_review": false,
-      "speaker_confidence": 0.686
+      "speaker_confidence": 0.686,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:09:05.748Z"
     },
     {
       "start": 79.62,
@@ -353,12 +381,14 @@
       "start": 84.4,
       "end": 85.0,
       "text": "Who was this?",
-      "speaker": "Bella",
+      "speaker": "Nina",
       "source_track": "R01",
       "source_start": 84.4,
       "confidence": -0.1851,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:09:23.228Z"
     },
     {
       "start": 85.3,
@@ -374,13 +404,16 @@
     {
       "start": 86.22,
       "end": 87.34,
-      "text": "Yitzchak's daughter.",
-      "speaker": "Bella",
+      "text": "Itzhak's daughter.",
+      "speaker": "Nina",
       "source_track": "R01",
       "source_start": 86.22,
       "confidence": -0.1851,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_note": "Itzhak was Chaim (another of Grandpa's brothers) son. Chaim married Shossy. Chaim married his cousin Hansha, Yisroel's daughter).",
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:12:09.046Z"
     },
     {
       "start": 88.06,
@@ -408,12 +441,14 @@
       "start": 90.4,
       "end": 91.58,
       "text": "Wait, but how could she be his?",
-      "speaker": "Bella",
+      "speaker": "Nina",
       "source_track": "R01",
       "source_start": 90.4,
       "confidence": -0.1851,
       "needs_review": false,
-      "speaker_confidence": 0.817
+      "speaker_confidence": 0.817,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:12:29.855Z"
     },
     {
       "start": 91.58,
@@ -440,24 +475,28 @@
     {
       "start": 93.54,
       "end": 97.58,
-      "text": "My brother's son, my brother's daughter got married.",
+      "text": "My brother's son and my brother's daughter got married.",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 93.54,
       "confidence": -0.1851,
       "needs_review": false,
-      "speaker_confidence": 0.909
+      "speaker_confidence": 0.909,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:12:46.265Z"
     },
     {
       "start": 97.58,
       "end": 100.7,
-      "text": "And he had a entire two children before he got children.",
+      "text": "And he had a entire two children before he got killed.",
       "speaker": "Bella",
       "source_track": "R01",
       "source_start": 97.58,
       "confidence": -0.2785,
       "needs_review": false,
-      "speaker_confidence": 0.966
+      "speaker_confidence": 0.966,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-22T21:04:44.934Z"
     },
     {
       "start": 102.86,
@@ -496,12 +535,14 @@
       "start": 109.94,
       "end": 111.76,
       "text": "We went to Haifa.",
-      "speaker": "Abe",
+      "speaker": "Len",
       "source_track": "R01",
       "source_start": 109.94,
       "confidence": -0.2785,
       "needs_review": false,
-      "speaker_confidence": 0.825
+      "speaker_confidence": 0.825,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-22T21:05:16.374Z"
     },
     {
       "start": 111.96,
@@ -572,24 +613,28 @@
     {
       "start": 121.3,
       "end": 122.68,
-      "text": "There was a handsome couple.",
+      "text": "They were a handsome couple.",
       "speaker": "Bella",
       "source_track": "R01",
       "source_start": 121.3,
       "confidence": -0.2785,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-22T21:05:57.212Z"
     },
     {
       "start": 122.82,
       "end": 123.82,
       "text": "You took pictures of them.",
-      "speaker": "Multiple speakers",
+      "speaker": "Abe",
       "source_track": "R01",
       "source_start": 122.82,
       "confidence": -0.2785,
       "needs_review": false,
-      "speaker_confidence": 0.561
+      "speaker_confidence": 0.561,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:13:19.640Z"
     },
     {
       "start": 123.84,
@@ -639,12 +684,14 @@
       "start": 131.78,
       "end": 132.44,
       "text": "They were cousins.",
-      "speaker": "Abe",
+      "speaker": "Len",
       "source_track": "R01",
       "source_start": 131.78,
       "confidence": -0.3106,
       "needs_review": false,
-      "speaker_confidence": 0.958
+      "speaker_confidence": 0.958,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:13:38.005Z"
     },
     {
       "start": 132.82,
@@ -661,23 +708,27 @@
       "start": 134.52,
       "end": 136.24,
       "text": "That's what, that's what was confusing me.",
-      "speaker": "Bella",
+      "speaker": "Nina",
       "source_track": "R01",
       "source_start": 134.52,
       "confidence": -0.3106,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:13:50.821Z"
     },
     {
       "start": 136.32,
       "end": 136.96,
       "text": "They were cousins.",
-      "speaker": "Multiple speakers",
+      "speaker": "Bella",
       "source_track": "R01",
       "source_start": 136.32,
       "confidence": -0.3106,
       "needs_review": false,
-      "speaker_confidence": 0.57
+      "speaker_confidence": 0.57,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:14:05.171Z"
     },
     {
       "start": 137.0,
@@ -693,24 +744,28 @@
     {
       "start": 139.12,
       "end": 140.36,
-      "text": "No, I didn't think they were sister Billy.",
-      "speaker": "Abe",
+      "text": "No, I didn't think they were sister and brother, but....",
+      "speaker": "Nina",
       "source_track": "R01",
       "source_start": 139.12,
       "confidence": -0.3106,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:14:39.286Z"
     },
     {
       "start": 140.36,
       "end": 141.6,
       "text": "I figured they had to be really...",
-      "speaker": "Abe",
+      "speaker": "Nina",
       "source_track": "R01",
       "source_start": 140.36,
       "confidence": -0.3106,
       "needs_review": false,
-      "speaker_confidence": 0.873
+      "speaker_confidence": 0.873,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-22T21:07:02.954Z"
     },
     {
       "start": 141.6,
@@ -765,7 +820,10 @@
       "source_start": 144.68,
       "confidence": -0.3106,
       "needs_review": false,
-      "speaker_confidence": 0.897
+      "speaker_confidence": 0.897,
+      "family_note": "Abe's tone is like \"well duh... they were cousins so of course they looked alike.",
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:15:22.292Z"
     },
     {
       "start": 145.66,
@@ -792,46 +850,54 @@
     {
       "start": 152.94,
       "end": 154.58,
-      "text": "We must have such a nice little family.",
+      "text": "We must have such a nice looking family.",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 152.94,
       "confidence": -0.3106,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:15:46.268Z"
     },
     {
       "start": 154.58,
       "end": 155.88,
-      "text": "And he was a man of school.",
+      "text": "And Yisroel...",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 154.58,
       "confidence": -0.5152,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:19:54.391Z"
     },
     {
       "start": 160.18,
       "end": 164.52,
-      "text": "And he came back, and two years later, and...",
+      "text": "And he came back, and two years later...",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 160.18,
       "confidence": -0.5152,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:20:28.581Z"
     },
     {
       "start": 164.52,
       "end": 167.28,
-      "text": "By the way, he was the first victim in the world.",
+      "text": "By the way, he was the first victim in the war.",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 164.52,
       "confidence": -0.5152,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-22T21:07:52.030Z"
     },
     {
       "start": 170.96,
@@ -880,35 +946,41 @@
     {
       "start": 179.98,
       "end": 183.46,
-      "text": "She sent a soldier.",
+      "text": "They sent a soldier.",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 179.98,
       "confidence": -0.6402,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:16:59.743Z"
     },
     {
       "start": 183.96,
       "end": 185.32,
-      "text": "She said, oh, a Taniyish soldier.",
+      "text": "A Yiddish soldier.",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 183.96,
       "confidence": -0.6402,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:17:13.229Z"
     },
     {
       "start": 185.82,
       "end": 189.44,
-      "text": "And he saw a school of a fall.",
+      "text": "And he saw Yisroel fall. He died.",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 185.82,
       "confidence": -0.6402,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:20:59.339Z"
     },
     {
       "start": 189.7,
@@ -924,13 +996,15 @@
     {
       "start": 190.48,
       "end": 195.62,
-      "text": "He went to a rabbi in a difference in a town nearby.",
+      "text": "He went to a rabbi in a different town nearby.",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 190.48,
       "confidence": -0.6402,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:21:32.268Z"
     },
     {
       "start": 195.62,
@@ -946,46 +1020,54 @@
     {
       "start": 199.66,
       "end": 200.78,
-      "text": "He died.",
+      "text": "Yisroel Tabak, he died.",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 199.66,
       "confidence": -0.3525,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:18:55.896Z"
     },
     {
       "start": 201.3,
       "end": 202.4,
-      "text": "And he left our wife.",
+      "text": "And he left a wife",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 201.3,
       "confidence": -0.3525,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:22:04.351Z"
     },
     {
       "start": 202.64,
       "end": 204.22,
-      "text": "And he took children in Krasnobot.",
+      "text": "And two children in Krasnobrod.",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 202.64,
       "confidence": -0.3525,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:23:41.751Z"
     },
     {
       "start": 204.66,
       "end": 208.38,
-      "text": "And that rabbi sent a letter to the rabbi from our town.",
+      "text": "And that rabbi sent a letter to the rabbi in our town.",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 204.66,
       "confidence": -0.3525,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:24:01.810Z"
     },
     {
       "start": 209.2,
@@ -1023,35 +1105,41 @@
     {
       "start": 218.86,
       "end": 222.16,
-      "text": "And my mother, till the end, she taught me he's alive.",
+      "text": "And my mother, till the end, she thought he's alive.",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 218.86,
       "confidence": -0.2064,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:24:25.210Z"
     },
     {
       "start": 222.74,
       "end": 224.62,
-      "text": "So how did she find out if the rabbi wouldn't have ever found out?",
-      "speaker": "Bella",
+      "text": "So how did she find out if the rabbi didn't tell her?",
+      "speaker": "Nina",
       "source_track": "R01",
       "source_start": 222.74,
       "confidence": -0.2064,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:24:53.534Z"
     },
     {
       "start": 224.62,
       "end": 225.76,
       "text": "She didn't find out.",
-      "speaker": "Bella",
+      "speaker": "Abe",
       "source_track": "R01",
       "source_start": 224.62,
       "confidence": -0.2064,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:25:02.718Z"
     },
     {
       "start": 225.76,
@@ -1079,12 +1167,14 @@
       "start": 229.3,
       "end": 231.42,
       "text": "Well, how long after that did she die?",
-      "speaker": "Bella",
+      "speaker": "Nina",
       "source_track": "R01",
       "source_start": 229.3,
       "confidence": -0.2064,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:25:19.772Z"
     },
     {
       "start": 231.76,
@@ -1100,13 +1190,15 @@
     {
       "start": 234.2,
       "end": 235.18,
-      "text": "Oh, I see.",
+      "text": "Oh, only two years.",
       "speaker": "Bella",
       "source_track": "R01",
       "source_start": 234.2,
       "confidence": -0.2064,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:25:42.185Z"
     },
     {
       "start": 235.18,
@@ -1122,24 +1214,29 @@
     {
       "start": 241.42,
       "end": 242.52,
-      "text": "that time she died.",
+      "text": "by that time she died.",
       "speaker": "Abe",
       "source_track": "R01",
       "source_start": 241.42,
       "confidence": -0.2593,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:25:58.333Z"
     },
     {
       "start": 249.1,
       "end": 249.98,
       "text": "Anybody want?",
-      "speaker": "Multiple speakers",
+      "speaker": "Bella",
       "source_track": "R01",
       "source_start": 249.1,
       "confidence": -0.2593,
       "needs_review": false,
-      "speaker_confidence": 0.614
+      "speaker_confidence": 0.614,
+      "family_note": "They are having snacks",
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:26:13.210Z"
     },
     {
       "start": 252.52,
@@ -1188,13 +1285,15 @@
     {
       "start": 267.875,
       "end": 276.435,
-      "text": "How far back do you remember? How far back I remember? I remember back when my brothers made",
-      "speaker": "Abe",
+      "text": "Bella: How far back do you remember?\nAbe: How far back I remember? I remember back when my brothers made",
+      "speaker": "Multiple speakers",
       "source_track": "R02",
       "source_start": 1.96,
       "confidence": -0.2003,
       "needs_review": false,
-      "speaker_confidence": 0.998
+      "speaker_confidence": 0.998,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:27:01.910Z"
     },
     {
       "start": 276.435,
@@ -1210,13 +1309,15 @@
     {
       "start": 284.135,
       "end": 297.875,
-      "text": "you know. What kind of mill was it? A flour mill. But it was run by water. A big wheel was going",
-      "speaker": "Abe",
+      "text": "Abe: you know.\nBella: What kind of mill was it?\nAbe: A flour mill. But it was run by water. A big wheel was going",
+      "speaker": "Multiple speakers",
       "source_track": "R02",
       "source_start": 18.22,
       "confidence": -0.2284,
       "needs_review": false,
-      "speaker_confidence": 0.853
+      "speaker_confidence": 0.853,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-23T15:27:45.877Z"
     },
     {
       "start": 297.875,
@@ -1419,13 +1520,15 @@
     {
       "start": 456.515,
       "end": 466.875,
-      "text": "make pens. You know, he, he was half in, but he, he only liked horses. So when he came back from the army,",
+      "text": "make pants. You know, he, he was half in, but he, he only liked horses. So when he came back from the army,",
       "speaker": "Abe",
       "source_track": "R02",
       "source_start": 190.6,
       "confidence": -0.1847,
       "needs_review": false,
-      "speaker_confidence": 0.974
+      "speaker_confidence": 0.974,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-22T21:16:47.128Z"
     },
     {
       "start": 468.015,
@@ -1452,13 +1555,15 @@
     {
       "start": 483.695,
       "end": 490.295,
-      "text": "dowry. The nodden. Huh? The dowry? The nodden. He, he, he, he, they called it the nodden.",
-      "speaker": "Abe",
+      "text": "Abe: dowry. The *Nadn.* Huh?\nBella: The dowry?\nAbe: The *Nadn.* In Europe, they called it the *Nadn.*",
+      "speaker": "Multiple speakers",
       "source_track": "R02",
       "source_start": 217.78,
       "confidence": -0.3482,
       "needs_review": false,
-      "speaker_confidence": 0.775
+      "speaker_confidence": 0.775,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-22T21:21:04.144Z"
     },
     {
       "start": 490.935,
@@ -1487,57 +1592,68 @@
     {
       "start": 507.855,
       "end": 512.735,
-      "text": "So, but people came to tell mom, hi, hi, hi, you, you, you, let, uh,",
+      "text": "So, but people came to tell mom, how do you let",
       "speaker": "Abe",
       "source_track": "R02",
       "source_start": 241.94,
       "confidence": -0.43,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-22T21:22:23.527Z"
     },
     {
       "start": 513.975,
       "end": 520.055,
-      "text": "I was such a nice looking, uh, boy, but, uh, so if she used to tell, I wouldn't sleep with her.",
+      "text": "such a nice looking, uh, boy marry,  but, uh, so if she used to tell, I wouldn't sleep with her.",
       "speaker": "Abe",
       "source_track": "R02",
       "source_start": 248.06,
       "confidence": -0.43,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-22T21:23:16.535Z"
     },
     {
       "start": 521.415,
       "end": 527.575,
-      "text": "And, uh, she was as better as smart woman. And he got married and I remember exactly the",
+      "text": "And, uh, she was a very smart woman. And he got married and I remember exactly the",
       "speaker": "Abe",
       "source_track": "R02",
       "source_start": 255.5,
       "confidence": -0.43,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-22T21:23:43.327Z"
     },
     {
       "start": 527.575,
       "end": 535.675,
-      "text": "Vedic like it was like, right now. There was, was a Saturday. The Vedic started Friday and ended,",
+      "text": "wedding like it was like it would be right now. There was, was a Saturday wedding, start  Friday and ended,",
       "speaker": "Abe",
       "source_track": "R02",
       "source_start": 261.66,
       "confidence": -0.3719,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-22T21:24:40.899Z"
     },
     {
       "start": 535.895,
       "end": 543.535,
-      "text": "and ended Sunday in the afternoon. And they used to take home after the Makatuna, you know,",
+      "text": "and ended Sunday in the afternoon. And they used to take home after the *Machatunim,* you know,",
       "speaker": "Abe",
       "source_track": "R02",
       "source_start": 269.98,
       "confidence": -0.3719,
       "needs_review": false,
-      "speaker_confidence": 1.0
+      "speaker_confidence": 1.0,
+      "family_note": "Machatunim - parents of the bride/groom",
+      "family_reviewed": true,
+      "family_reviewed_at": "2026-09-22T21:27:12.727Z"
     },
     {
       "start": 543.655,
@@ -19426,5 +19542,5 @@
   ],
   "speaker_method": "Provisional Pyannote Community-1 labels using automatic speaker counting. The model found one stable Abe cluster and one interviewer cluster identified by the family as Bella. Mixed passages are labeled Multiple speakers.",
   "family_corrections_format": "abe-tabak-family-corrections-v1",
-  "family_corrections_last_imported": "2026-09-22T14:16:26.054Z"
+  "family_corrections_last_imported": "2026-09-23T15:38:50.038Z"
 }
