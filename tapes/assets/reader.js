@@ -222,14 +222,25 @@ document.getElementById("exportTranscript").onclick = () => {
     const heading = chapter.querySelector("h2").cloneNode(true);
     heading.querySelector("small")?.remove();
     parts.push("\\b\\fs26 " + rtfText(heading.textContent.trim()) + "\\b0\\fs22\\par");
+    let turn = null;
+    const writeTurn = () => {
+      if (!turn) return;
+      parts.push("\\i " + rtfText(turn.timestamp) + "\\i0  \\b " +
+        rtfText(turn.speaker) + "\\b0 " + rtfText(turn.text.join(" ")) + "\\par");
+      turn = null;
+    };
     chapter.querySelectorAll(".utterance").forEach((row) => {
       const timestamp = row.querySelector(".stamp")?.textContent.trim() || "";
       const speaker = row.querySelector(".speaker")?.textContent.trim() || "";
       const transcript = row.querySelector(".transcript-text")?.textContent.trim() || "";
-      const review = row.classList.contains("review") ? " [Check audio]" : "";
-      parts.push("\\i " + rtfText(timestamp) + "\\i0  \\b " + rtfText(speaker) +
-        "\\b0 " + rtfText(transcript + review) + "\\par");
+      const passage = (row.classList.contains("review") ? "[Check audio] " : "") + transcript;
+      if (turn?.speaker === speaker) turn.text.push(passage);
+      else {
+        writeTurn();
+        turn = { timestamp, speaker, text: [passage] };
+      }
     });
+    writeTurn();
     parts.push("\\par");
   });
   parts.push("}");
