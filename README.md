@@ -26,7 +26,7 @@ The source collection contains 14 audio files because some numbered tapes have m
 ## How family review works
 
 1. Open a tape reader and choose **Correct or annotate** beside a passage.
-2. Correct the speaker or transcript and add an optional family note. Changes remain in that browser's local storage.
+2. Correct the speaker or transcript and add an optional family note. The text editor includes clickable Polish place names that insert at the cursor. Changes remain in that browser's local storage.
 3. Use **Export transcript for Word (.rtf)** to download the latest transcript, including corrections saved in that browser, for reading or editing in Microsoft Word. Use **Export corrections (.json)** periodically and keep the downloaded file to share corrections with the repository maintainer.
 4. Send the correction export (.json) to the repository maintainer. The import script validates it, merges it into the canonical transcript, rebuilds the page, and publishes the result.
 

@@ -133,6 +133,34 @@ function openEditor(row) {
   const textLabel = document.createElement("label");
   textLabel.textContent = "Corrected transcript";
   textLabel.appendChild(text);
+  const wordPalette = document.createElement("div");
+  wordPalette.className = "word-palette";
+  const wordPaletteLabel = document.createElement("span");
+  wordPaletteLabel.className = "word-palette-label";
+  wordPaletteLabel.textContent = "Polish place names";
+  const wordButtons = document.createElement("div");
+  wordButtons.className = "word-palette-buttons";
+  ["Krasnobród", "Zamość", "Tomaszów", "Tomaszów Lubelski", "Komarów"].forEach((word) => {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.textContent = word;
+    button.onmousedown = (event) => event.preventDefault();
+    button.onclick = () => {
+      const start = text.selectionStart ?? text.value.length;
+      const end = text.selectionEnd ?? start;
+      const before = text.value.slice(0, start), after = text.value.slice(end);
+      const leadingSpace = /[\p{L}\p{N}]$/u.test(before) ? " " : "";
+      const trailingSpace = /^[\p{L}\p{N}]/u.test(after) ? " " : "";
+      const insertion = leadingSpace + word + trailingSpace;
+      text.value = before + insertion + after;
+      const caret = before.length + insertion.length;
+      text.focus();
+      text.setSelectionRange(caret, caret);
+      text.dispatchEvent(new Event("input", { bubbles: true }));
+    };
+    wordButtons.appendChild(button);
+  });
+  wordPalette.append(wordPaletteLabel, wordButtons);
   const noteLabel = document.createElement("label");
   noteLabel.textContent = "Family note";
   noteLabel.appendChild(note);
@@ -155,7 +183,7 @@ function openEditor(row) {
   saved.className = "autosave";
   saved.textContent = "Changes autosave";
   controls.append(close, discard, saved);
-  editor.append(speakerLabel, textLabel, noteLabel, controls);
+  editor.append(speakerLabel, textLabel, wordPalette, noteLabel, controls);
   function update() {
     const next = {
       start: base.start,
