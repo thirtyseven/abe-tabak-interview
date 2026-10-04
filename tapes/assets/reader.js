@@ -271,6 +271,17 @@ document.getElementById("exportTranscript").onclick = () => {
     writeTurn();
     parts.push("\\par");
   });
+  const notes = document.getElementById("notes");
+  if (notes?.children.length) {
+    parts.push("\\b\\fs28 Annotations\\b0\\fs22\\par\\par");
+    notes.querySelectorAll("h3").forEach((heading) => {
+      parts.push("\\b\\fs24 " + rtfText(heading.textContent.trim()) + "\\b0\\fs22\\par");
+      const body = heading.nextElementSibling;
+      if (body?.tagName === "P") {
+        parts.push(rtfText(body.textContent.trim()) + "\\par\\par");
+      }
+    });
+  }
   parts.push("}");
   const blob = new Blob([parts.join("")], { type: "application/rtf" });
   const url = URL.createObjectURL(blob), a = document.createElement("a");
