@@ -1,6 +1,7 @@
 :root{--paper:#f6f1e7;--ink:#252b26;--muted:#657069;--accent:#8b3e2f;--rule:#d4cdbf;--active:#e4eadb}
 *{box-sizing:border-box}body{margin:0;background:var(--paper);color:var(--ink);font-family:system-ui,sans-serif}
 header{padding:48px max(24px,calc((100vw - 1180px)/2));border-bottom:1px solid var(--rule)}
+.collection-nav{display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:20px;font:13px/1.5 system-ui,sans-serif;color:var(--muted)}.collection-nav a{color:var(--ink);text-decoration:none;border-bottom:1px solid var(--rule)}.collection-nav a:hover{border-color:currentColor}
 .eyebrow{text-transform:uppercase;letter-spacing:.13em;color:var(--accent);font-size:12px;font-weight:700}
 h1{font:52px/1.05 Georgia,serif;margin:12px 0}header p{font:20px/1.5 Georgia,serif;max-width:800px}
 .layout{display:grid;grid-template-columns:245px minmax(0,760px);gap:48px;max-width:1180px;margin:auto;padding:30px 24px 80px}

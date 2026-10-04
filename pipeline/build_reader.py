@@ -80,6 +80,30 @@ def build(config_path, output_override=None):
     else:
         raise ValueError("Pass --output or set output in recording configuration")
     output.parent.mkdir(parents=True, exist_ok=True)
+    collection = json.loads((ROOT / "site" / "collection.json").read_text())
+    published = []
+    for record in collection["featured"]:
+        if record.get("art") != "audio":
+            continue
+        candidate_config = (ROOT / record["recording_config"]).resolve()
+        candidate = json.loads(candidate_config.read_text())
+        candidate_output = (candidate_config.parent / candidate["output"]).resolve()
+        if candidate_output.is_file():
+            published.append((int(record["number"]), candidate_output))
+    published.sort()
+    current_number = next((number for number, page_path in published if page_path == output), None)
+    if current_number is None:
+        raise ValueError("Reader config is not listed as a published tape in site/collection.json")
+    current_index = next(index for index, (number, _) in enumerate(published) if number == current_number)
+    collection_nav = [f'<a href="{escaped(Path(os.path.relpath(ROOT / "index.html", output.parent)).as_posix())}">All tapes</a>']
+    if current_index:
+        number, page_path = published[current_index - 1]
+        href = Path(os.path.relpath(page_path.parent / "index.html", output.parent)).as_posix()
+        collection_nav.append(f'<a rel="prev" href="{escaped(href)}">← Tape {number}</a>')
+    if current_index + 1 < len(published):
+        number, page_path = published[current_index + 1]
+        href = Path(os.path.relpath(page_path.parent / "index.html", output.parent)).as_posix()
+        collection_nav.append(f'<a rel="next" href="{escaped(href)}">Tape {number} →</a>')
     asset_base = Path(os.path.relpath(ASSETS, output.parent)).as_posix()
     reader_js = ASSETS / "reader.js"
     reader_css = ASSETS / "reader.css"
@@ -98,7 +122,8 @@ def build(config_path, output_override=None):
         description=escaped(config["description"]), notice=escaped(config["notice"]),
         media_title=escaped(config["media_title"]), media_id=escaped(config["media_id"]),
         css=escaped(css_url), js=escaped(js_url),
-        nav=nav, rows=render_rows(rows, config["chapters"]), notes=notes, runtime_json=runtime_json,
+        nav=nav, collection_nav="<span>Browse collection:</span> " + " · ".join(collection_nav),
+        rows=render_rows(rows, config["chapters"]), notes=notes, runtime_json=runtime_json,
     )
     output.write_text(page)
     print(f"Wrote {output} ({len(rows)} passages)")
